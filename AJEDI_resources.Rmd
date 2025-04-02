@@ -5,13 +5,15 @@ output: html_document
 
 # AJEDI Resources 
 
-The following is a list of media I have found insightful and useful about the state and progress of Accessibility, Justice, Equity, Diversity, and Inclusion (AJEDI) in marine science research and education. Also included are resources that are helpful to promoting practices mindful of AJEDI. 
+The following is a list of media I have found insightful and useful about the state and progress of Accessibility, Justice, Equity, Diversity, and Inclusion (AJEDI) in marine science research and education. Also included are resources that are helpful to promoting practices mindful of AJEDI in the classroom, laboratory, and field. 
 
 ## Literature
 
 - [*Oceanography* special issue on Building Diversity, Equity, and Inclusion in the Ocean Sciences](https://tos.org/oceanography/issue/volume-36-issue-4)
 
 - [AGU Journals Special Collection on Diversity, Equity, and Inclusion](https://agupubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2576-604X.DEIAGU)
+
+- [Life and Science at Sea: Advice for your First Scientific Research Cruise from Experienced Oceanographers](https://repository.oceanbestpractices.org/handle/11329/2608)
 
 
 ## Videos
