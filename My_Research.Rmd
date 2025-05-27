@@ -5,7 +5,7 @@ output: html_document
 
 # My research
 
-The oceans teem with marine microbes that move at the mercy of currents. These microbes are largely invisible to the naked eye, but have huge impacts on how food webs function and how elements are cycled throughout the planet. My research is dedicated to studying these amazing microbes and the processes they influence.
+The ocean teems with marine microbes that drift with the currents. Though invisible to the naked eye, these microbes play an outsized role in shaping food webs and cycling elements across the planet. My research is dedicated to understanding these remarkable organisms and the processes they drive.
 \
 \
 <center>![](movies/or_coast_plankton_jul2023.mp4){ width=75% }</center>
@@ -14,7 +14,8 @@ The oceans teem with marine microbes that move at the mercy of currents. These m
 \
 <center><h4 style="font-size: 14px; color: #AEC96F"> Plankton from the Oregon Coast in July 2023, shot with the Curiosity Microscope. </h4></center>
 \
-CO~2~ entering the ocean from the atmosphere is fixed into organic carbon by phytoplankton in the surface ocean. The produced organic carbon fuels marine food webs, but a portion can also make its way or be exported deep into the ocean interior where it is separated from the atmosphere for centuries to millennia. This vertical export of organic carbon is a major mechanism by which the ocean can act as a buffer to increasing human CO~2~ emissions. 
+
+Carbon dioxide (CO₂) from the atmosphere is fixed into organic carbon by phytoplankton in the sunlit surface ocean. This organic carbon fuels marine food webs, but a portion of it is exported to the deep ocean, where it can remain isolated from the atmosphere for centuries to millennia. This vertical export of organic carbon is one of the primary ways the ocean buffers rising atmospheric CO₂ from human activity.
 \
 \
 \
@@ -22,13 +23,13 @@ CO~2~ entering the ocean from the atmosphere is fixed into organic carbon by phy
 knitr::include_graphics("figures/biologicalCpump_scene.png")
 ```
 \
-My research interests: 
+My research explores questions such as:
 
-- How are the different carbon storage pools in the ocean shaped by microbial activity? 
-- How do the relationships between microbes and carbon pools vary between different environments and over different timescales? 
-- How will microbial activity change as our climate changes and their environments are perturbed?
+- How are different oceanic carbon pools shaped by microbial activity?
+- How do microbial–carbon relationships vary across environments and timescales?
+- How will microbial activity shift as the climate changes and marine environments are perturbed?
 
-I’ve approached these questions by collaborating with a diversity of marine scientists to collect and synthesize biogeochemical, bio-optical, remote sensing, and experimental data.
+To investigate these questions, I collaborate with a broad range of ocean scientists, integrating biogeochemical, bio-optical, remote sensing, and experimental data to gain a holistic understanding of ocean microbial dynamics.
 
 
 
