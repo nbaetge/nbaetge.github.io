@@ -113,3 +113,23 @@ a.navbar-brand:hover {
   background-color: #009BB0;
 }
 
+ /* Responsive for mobile */
+  @media (max-width: 700px) {
+    .header-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .profile-photo {
+      margin-right: 0;
+      margin-bottom: 15px;
+      min-width: 100%;
+    }
+    .bio-video-container {
+      flex-direction: column;
+    }
+    .bio-video {
+      min-width: 100%;
+      max-height: none;
+    }
+  }
+

@@ -11,9 +11,9 @@ output: html_document
 
 Goranov, A.I., Schmitt, N., Agar, J., Harvey, E., **Baetge, N.**, McNair, H., Arrington, E., Stubbins, A., Wagner, S. in prep. Molecular delineation and fertilization of dissolved organic matter of Santa Barbara coastal waters during the Thomas Fire (California, USA).
 
-### in review
+### 2025
 
-**Baetge, N.**, Halsey, K.H., Hanan, E.J., Behrenfeld, M.J., Milligan, A.J., Graff, J.R., Hansen, P., Carlson, C.A., Boiteau, R.B., Arrington, E.A., Comstock, J., Halewood, E.R., Harvey, E.L., Nelson, N.B., Opalk, K., Very Wey, B. in review. Pre-existing in situ conditions shape coastal plankton response to fire-generated ash leachate. *Limnology and Oceanography*
+**Baetge, N.**, Halsey, K.H., Hanan, E.J., Behrenfeld, M.J., Milligan, A.J., Graff, J.R., Hansen, P., Carlson, C.A., Boiteau, R.B., Arrington, E.A., Comstock, J., Halewood, E.R., Harvey, E.L., Nelson, N.B., Opalk, K., Very Wey, B. [Pre-existing in situ conditions shape coastal plankton response to fire-generated ash leachate](https://doi.org/10.1002/lno.70087). *Limnology and Oceanography*
 
 ### 2024
 
@@ -71,3 +71,9 @@ Saliba, G., Chen, C. L., Lewis, S., Russell, L. M., Rivellini, L. H., Lee, A. K.
 \
 \
 Behrenfeld, M. J., Moore, R. H., Hostetler, C. A., Graff, J., Gaube, P., Russell, L. M., Chen, G., Doney, S.C., Giovannoni, S., Liu, H.,  Proctor, C., Bolaños, **Baetge, N.**, Davie-Martin, C., Westberry, T.K., Bates, T.S., Bell, T.G., Bidle, K.D.,, Boss, E.S., Brooks, S.D., Cairns, B., Carlson, C., Halsey, K., Harvey, E.L., Hu, Chuanmin, Karp-Boss, L., Kleb, M., Menden-Deuer, S., Morison, F., Quinn, P.K., Scarino, A.J., Anderson, B., Chowdhary, J., Crosbie, E., Ferrare, R., Hair, J.W., Hu., Y., Janz, S., Redemann, J., Saltzman, E., Shook, M., Siegel, D.A., Wisthaler, A., Marting, M.Y., Ziemba, L. (2019) [The North Atlantic aerosol and marine ecosystem study (NAAMES): science motive and mission overview](https://doi.org/10.3389/fmars.2019.00122). *Frontiers in Marine Science.* 6, 122.
+
+
+</div> </div><!--  IMAGE --> <div style="text-align: center; margin-top: 30px;"> 
+```{r, echo=FALSE, out.width = "80%"}
+knitr::include_graphics("images/sally_ride_lab.jpg") 
+```

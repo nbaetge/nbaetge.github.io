@@ -3,27 +3,32 @@ title: ""
 output: html_document
 ---
 
-# Across the Channel: Investigating Diel Dynamics
+# Across the Channel: Investigating Diel Dynamics (ACIDD)
 
-ACIDD was a student-driven oceanographic research cruise in which I was a co-PI and Chief Scientist that sought to document the daily rhythm of microbial processes in the Santa Barbara Channel (SBC). We secured ship time through the [UC Ship Funds](https://scripps.ucsd.edu/ships/uc-ship-funds-program) and over the course of a year, built a team that designed and planned achievable research objectives. When one of the California's largest recorded wildfire erupted days before our cruise, we responded quickly to take on a secondary objective: document and dissect the impacts of wildfire ash deposition on the marine ecosystems. We described both the science and our STEAM initiative, bridging art and oceanography, in this [commentary](https://tos.org/oceanography/article/california-wildfire-burns-boundaries-between-science-and-art).
+ACIDD was a student-driven research expedition in the Santa Barbara Channel, where I served as co-PI and Chief Scientist. Our goal was to track the daily rhythms of microbial activity in coastal waters, documenting how these tiny organisms change over the course of 24-hour light/dark cycles. We secured ship time through the [UC Ship Funds program](https://scripps.ucsd.edu/ships/uc-ship-funds-program) and over the course of a year, built a collaborative team to and execute a successful mission. 
+
+Days before our cruise set sail, one of California’s largest recorded wildfires erupted. Rather than cancel, we pivoted quickly, adding a new objective to track the impact of wildfire ash as it fell onto the ocean surface. This rapid adaptation led to one of the earliest field investigations into how coastal marine microbes respond to wildfire-derived aerosols.
 \
 \
 ```{r, echo=FALSE, fig.cap= "Aerosol optical density derived from satellite remote sensing over the course of the cruise. Circles represent stations where samples were collected and experiments conducted.", out.width = '80%', fig.align='center'}
 knitr::include_graphics("figures/acidd_smoke.png")
 ```
 \
-```{r, echo=FALSE, fig.cap= "In one of our experiments, we found that a natural coastal bacterial community responded similarly to the organic matter and nutrients leached from ash as they did to a mix of model compounds. The amendments both stimulated rapid increases in biomass followed by an equally rapid death phase. We also see that not all the organic carbon from the ash is used, suggesting that some of it can be exported away.", out.width = '100%', fig.align='center'}
+\
+In a follow up experiment performed as a part of an undergraduate laboratory course, we found that coastal bacterial communities responded strongly to both wildfire ash leachate and model organic matter. Both treatments stimulated rapid microbial growth followed by a sharp collapse, hinting at boom-and-bust dynamics and suggesting that not all ash-derived carbon is consumed, raising the possibility of longer-term export.
+```{r, echo=FALSE, fig.cap= "Incubation of natural coastal bacterial communities exposed to different compounds, including ash leachate.", out.width = '100%', fig.align='center'}
 knitr::include_graphics("figures/acidd_bacteria.png")
 ```
 
 ## Outreach and Media
 
-[Dr. Kelsey Bisson](https://scholar.google.com/citations?user=8FrNCE0AAAAJ&hl=en) led a project funded by the [National Academies Keck Futures Initiative](http://www.nasonline.org/programs/keck-futures-initiative/) that wove together the strengths of art and science. She put together a team of four artists, [Celia Jacobs](http://www.celiaj.com), [Dustin Hayes](http://lvl3official.com/walter-etc/), and [Gad Girling](https://gadgirling.myportfolio.com/projects), who worked to bring oceanography to the public eye through their mediums of art, music, photography, writing, and film. 
- 
-- See the magazine they produced [here](https://issuu.com/migrationsmag/docs/finalmigrationszinepages).
-- Watch the video they produced below, which was featured at the 2019 [Environmental Film Festival](https://dceff.org/film/aquatic-cathartic/) in Washington, D.C.
+The ACIDD project was also a platform for [STEAM (science + art) outreach](https://tos.org/oceanography/article/california-wildfire-burns-boundaries-between-science-and-art). Through the vision of [Dr. Kelsey Bisson](https://science.nasa.gov/people/kelsey-bisson/), we partnered with artists and musicians through a Keck Futures Initiative grant to make marine science more accessible and emotionally resonant. The result was a suite of creative works—including illustrations, music, and a short film that was featured at the Environmental Film Festival in Washington, D.C.
 
+Explore the [Migrations Magazine](https://issuu.com/migrationsmag/docs/finalmigrationszinepages) that showcases our science-art collaboration.
+
+Watch our short film below:
 <center><iframe src="https://player.vimeo.com/video/281882446" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+
 
 ### Press
 

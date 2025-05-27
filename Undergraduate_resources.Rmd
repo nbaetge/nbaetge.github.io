@@ -7,7 +7,7 @@ output: html_document
 
 # Oregon State University internal undergraduate support and opportunities
 
-[Undergraduate, Research, Scholarship and the Arts (URSA)](https://undergraduate.oregonstate.edu/research)
+- [Undergraduate, Research, Scholarship and the Arts (URSA)](https://undergraduate.oregonstate.edu/research)
 
 - [OSU's New Beginnings for Tribal Students (NBTS) program has applications open for summer internship support](https://opencampus.oregonstate.edu/nbts)
 
