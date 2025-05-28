@@ -10,15 +10,10 @@ ACIDD was a student-driven research expedition in the Santa Barbara Channel, whe
 Days before our cruise set sail, one of California’s largest recorded wildfires erupted. Rather than cancel, we pivoted quickly, adding a new objective to track the impact of wildfire ash as it fell onto the ocean surface. This rapid adaptation led to one of the earliest field investigations into how coastal marine microbes respond to wildfire-derived aerosols.
 \
 \
-```{r, echo=FALSE, fig.cap= "Aerosol optical density derived from satellite remote sensing over the course of the cruise. Circles represent stations where samples were collected and experiments conducted.", out.width = '80%', fig.align='center'}
+```{r, echo=FALSE, fig.cap= "Aerosol optical density derived from satellite remote sensing over the course of the cruise. Circles represent stations where samples were collected and experiments conducted. Figure courtesy of Kelsey Bisson.", out.width = '75%', fig.align='center'}
 knitr::include_graphics("figures/acidd_smoke.png")
 ```
 \
-\
-In a follow up experiment performed as a part of an undergraduate laboratory course, we found that coastal bacterial communities responded strongly to both wildfire ash leachate and model organic matter. Both treatments stimulated rapid microbial growth followed by a sharp collapse, hinting at boom-and-bust dynamics and suggesting that not all ash-derived carbon is consumed, raising the possibility of longer-term export.
-```{r, echo=FALSE, fig.cap= "Incubation of natural coastal bacterial communities exposed to different compounds, including ash leachate.", out.width = '100%', fig.align='center'}
-knitr::include_graphics("figures/acidd_bacteria.png")
-```
 
 ## Outreach and Media
 

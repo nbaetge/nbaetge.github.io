@@ -12,7 +12,7 @@ The ocean teems with marine microbes that drift with the currents. Though invisi
 \
 \
 \
-<center><h4 style="font-size: 14px; color: #AEC96F"> Plankton from the Oregon Coast in July 2023, shot with the Curiosity Microscope. </h4></center>
+<center><h4 style="font-size: 14px; color: #6d6e71;"> Plankton from the Oregon Coast in July 2023, shot with the Curiosity Microscope. </h4></center>
 \
 
 Carbon dioxide (CO₂) from the atmosphere is fixed into organic carbon by phytoplankton in the sunlit surface ocean. This organic carbon fuels marine food webs, but a portion of it is exported to the deep ocean, where it can remain isolated from the atmosphere for centuries to millennia. This vertical export of organic carbon is one of the primary ways the ocean buffers rising atmospheric CO₂ from human activity.

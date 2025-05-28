@@ -13,7 +13,7 @@ knitr::include_graphics("images/IMG_1740.JPG")
 </div> 
   <!-- Name and Titles on the right --> 
   <div> <h1 style="margin-bottom:5px;">Nick Baetge, Ph.D.</h1> <h2 style="margin-top:5px; margin-bottom:5px; font-weight: normal;"> NSF OCE Postdoctoral Research Fellow </h2> <h3 style="margin-top:5px; margin-bottom:5px; font-weight: normal;"> Oregon State University </h3> </div> </div>
-  <p style="font-size: 14px; color: #AEC96F; margin-top: 10px;">
+  <p style="font-size: 14px;color: #00a88f; margin-top: 10px;">
   “Being a scientist and sailor is too good to be true.” — Roger Revelle  
   <br>
 </p>
@@ -41,7 +41,7 @@ knitr::include_graphics("images/IMG_1740.JPG")
   Your browser does not support the video tag.
 </video>
 
-  <p style="font-size: 14px; color: #AEC96F; margin-top: 10px;">
+  <p style="font-size: 14px; color: #6d6e71; margin-top: 10px;">
     A short reel from a 5-day research cruise off Hawaii. Check out the <a href="https://csw.unols.org">blogs</a> from this cruise!
   </p>
 </div>

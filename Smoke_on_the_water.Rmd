@@ -6,6 +6,18 @@ output: html_document
 <div class="project-container">
 
   <h1 class="project-title">Smoke on the water: the impacts of wildfire ash deposition on surface ocean biology</h1>
+  
+  <!-- Video section -->
+<div style="flex: 0 0 250px; min-width: 200px;">
+  <video autoplay muted loop playsinline controls style="width: 100%; max-height: 500px; object-fit: contain; border-radius: 8px; background-color: black;">
+  <source src="movies/sp2319.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+  <p style="font-size: 14px;  color: #6d6e71; margin-top: 10px;">
+  A short reel from a 28 day research cruise off California where we conducted microbial incubation experiments with wildfire ash leachates.
+  </p>
+</div>
 
   <p class="project-text">
    When wildfire smoke drifts over the ocean, what happens beneath the waves? As climate change increases the frequency and alters the nature of wildfires, it’s increasingly important to understand how ash deposition affects the ocean’s smallest, yet most essential, inhabitants.
@@ -14,27 +26,19 @@ output: html_document
 <p class="project-text">
    In our recent study, we investigated how wildfire ash leachate influences coastal microbial communities. Through field incubations along the California coast, we found that ash-derived dissolved organic matter (DOM) increased bacterioplankton specific growth rates and organic matter remineralization, while leaving bacterial growth efficiency unchanged. This suggests that the added DOM was primarily used to fuel basic cellular functions rather than biomass production. Meanwhile, microzooplankton grazing declined, even as phytoplankton division rates remained stable, hinting at a decoupling of predator-prey dynamics that could promote phytoplankton accumulation.
   </p>
-
+  
   <p class="project-text">
     Importantly, we found that pre-existing phytoplankton biomass had a greater influence on microbial responses than the chemical composition of the ash itself. In low-biomass waters, bacteria more readily consumed the ash-derived DOM. In contrast, in high-biomass waters, the leachate was less bioavailable, potentially allowing more refractory ash-derived carbon to accumulate. These baseline differences also appeared to influence phytoplankton size structure: smaller cells increased in high-biomass settings, while larger cells became more prevalent in low-biomass waters. These shifts may have implications for nutrient cycling, food web structure, and carbon export pathways, depending on how microbial activity and community composition respond in situ.
   </p>
   
  <p class="project-text">
-    You can read the full study <a href="https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.1002/lno.70087" target="_blank" rel="noopener noreferrer">here</a>.
+    You can read the full study <a href="https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.1002/lno.70087" target="_blank" rel="noopener noreferrer">here</a>, summarized by the poster below.
   </p>
   
+```{r, echo=FALSE, fig.cap="", out.width = '150%', fig.align='center'}
+knitr::include_graphics("figures/ASLO2025_poster.png")
+```
 
-<!-- Video section -->
-<div style="flex: 0 0 250px; min-width: 200px;">
-  <video autoplay muted loop playsinline controls style="width: 100%; max-height: 500px; object-fit: contain; border-radius: 8px; background-color: black;">
-  <source src="movies/sp2319.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-  <p style="font-size: 14px; color: #AEC96F; margin-top: 10px;">
-  A short reel from a 28 day research cruise off California where we conducted microbial incubation experiments with wildfire ash leachates.
-  </p>
-</div>
 
 
 </div>

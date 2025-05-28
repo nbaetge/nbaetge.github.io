@@ -4,44 +4,47 @@
 
 .title {
     font-family: "Avenir";
-    color: #BEBF65;
+    color: #00a88f;
     font-size: 26px;
 } 
 
 h1 {
     font-family: "Avenir";
-    color: #AEC96F;
+    color: #0280B2;
     font-size: 24px;
 } 
 
 h2 {
     font-family: "Avenir";
-    color: #BEBF65;
+    color: #6d6e71;
     font-size: 22px;
 } 
 
 h3 {
     font-family: "Avenir";
-    color: #AEC96F;
+    color: #0280B2;
     font-size: 18px;
 } 
 
 h4 {
     font-family: "Avenir";
-    color: #BEBF65;
+    color: #00a88f;
     font-size: 16px;
     font-style: italic;
 } 
 
 body{
   font-family: 'Avenir';
+  color: black;
   font-size: 16px;
 }
 
 /* links */
 a { 
-  color: #5ebccf;
+  color: #00a88f;
 }
+
+
 
 a:hover {
  color: #50a0b0; /* darker color when hovering */
@@ -50,11 +53,11 @@ a:hover {
 .caption {
     font-size: 14px;
     font-family: "Avenir";
-    color: #AEC96F;
+    color: #00a88f;
 }
 
-body { background-color: #2B2828; }
-    pre, pre:not([class]) { background-color: #2B2828; }
+body { background-color: white; }
+    pre, pre:not([class]) { background-color: white; }
 
 /*----------------ADDING WHITE SPACE-------------*/
 
@@ -84,23 +87,23 @@ body { background-color: #2B2828; }
  
  /*----------------NAVBAR ---------------*/
 .navbar-inverse {
-    background-color: #009BB0f2;
+    background-color: #0280B2;
 }
 
 .navbar-inverse .navbar-nav>.open>a, 
 .navbar-inverse .navbar-nav>.active>a, 
 a.dropdown-toggle:hover {
-  background-color: #114C54 !important;
+  background-color: #00a88f !important;
 }
 
 /* Dropdown menu color */
 .navbar-inverse .dropdown-menu {
-  background-color: ##009BB05;
+  background-color: ##0280B2;
 }
 
 /* Dropdown menu hover color */
   .navbar-inverse .dropdown-menu>li>a:hover {
-    background-color: #009BB0f2;
+    background-color: #0280B2;
   }
 
 /* Navbar Links when hovered*/
@@ -110,7 +113,7 @@ a.dropdown-toggle:hover {
 .navbar-inverse .navbar-nav>li>a:hover, 
 a.navbar-brand:hover {
   color: #ffffffab !important;
-  background-color: #009BB0;
+  background-color: #0280B2;
 }
 
  /* Responsive for mobile */

@@ -12,22 +12,17 @@ Through the NASA-led [NAAMES](https://science.larc.nasa.gov/naames/) program, wh
 
 In one [study](https://doi.org/10.3389/fmars.2020.00227), we developed a new way to estimate DOC export by combining data from autonomous Argo floats and discrete water samples, enabling export estimates even where direct DOC time series are lacking.
 
-```{r, echo=FALSE, fig.cap="Vertical profile of DOC from the surface to the annual maximum mixed layed depth (Z~MLD~). The red shaded area indicates the accumulation of DOC in the sunlit euphotic zone prior to deep mixing, while the yellow shaded area indicates the DOC exported into the mesopelagic upon deep mixing. The ability to estimate Z~MLD~ from ARGO floats allowed us to contextualize our discrete biogeochemical measurements and evaluate DOC export.", out.width = '50%', fig.align='center'}
-knitr::include_graphics("figures/naames_export.png")
+```{r, echo=FALSE, fig.cap="DOC export as a percentage of net community production (NCP) from the surface to the annual maximum mixed layed depth (MLD) for the NAAMES study region. ARGO floats provided the ability to estimate the annual maximum MLD, which was used to contextualize biogeochemical measurements from discrete water samples.", out.width = '100%', fig.align='center'}
+knitr::include_graphics("figures/doc_export.png")
 ```
 
 In a second [paper](https://doi.org/10.3389/fmars.2020.00227), we found that as the bloom wanes, bacterial carbon demand becomes more tightly linked to primary production. This shift favors the accumulation of less bioavailable, more refractory DOC that can persist and be exported during winter mixing events.
 
-```{r, echo=FALSE, fig.cap="DOC remineralization by heterotrophic bacteria over weeks to months assessed using seawater incubation experiments. These experiments provided and idea of how much DOC can escape microbial remineralization to potentially be exported and how that differs over seasons.", out.width = '75%', fig.align='center'}
-knitr::include_graphics("figures/naames_bioavail.png")
+```{r, echo=FALSE, fig.cap="DOC remineralization by heterotrophic bacteria over weeks to months assessed using seawater incubation experiments. These experiments provided and idea of how much DOC can escape microbial remineralization to potentially be exported and how that differs over seasons.", out.width = '100%', fig.align='center'}
+knitr::include_graphics("figures/doc_bioav3.png")
 ```
 
 In a third [study](https://www.frontiersin.org/articles/10.3389/fmicb.2021.669883/abstract), we captured rare in situ observations of bacterioplankton responses to deep convective mixing—showing rapid shifts in microbial production and carbon processing after organic matter was redistributed to depth.
-
-
-```{r, echo=FALSE, fig.cap="Storm-induced mixing and subsequent re-stratification of the water column. Data taken from this water mass revealed that the mixed layer extended to nearly 250 m, with deep water nutrients brought to the surface and organic matter exported to depth. This organic matter export likely fueled observed increases in heterotrophic biomass and activity.", out.width = '75%', fig.align='center'}
-knitr::include_graphics("figures/naames_s4.png")
-```
 
 Together, this research highlights how microbial activity and physical mixing work in tandem to regulate the fate of organic carbon in the ocean. These processes not only shape marine ecosystems but also influence how efficiently the ocean sequesters carbon on climate-relevant timescales.
 
