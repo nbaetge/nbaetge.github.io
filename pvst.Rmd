@@ -11,6 +11,10 @@ Changes in phytoplankton biomass or community composition can ripple through ent
 
 At Oregon State University, Dr. Jason Graff leads our group as part of NASA’s [PACE Validation Science Team](https://pace.oceansciences.org/pvstdoi.htm) and we are one of 24 groups selected to support the mission. Our job is to help ensure that what PACE sees from space matches real-world conditions in the ocean.
 
+```{r, echo=FALSE, fig.cap= "In May 2025, we made measurements on the Canadian Coast Guard Ship John P. Tully in collaboration with scientists from the Line P and La Perouse long-term sampling programs, covering both coastal-shelf and open ocean ecosystems.", out.width = '90%', fig.align='center'}
+knitr::include_graphics("images/IMG_4819.JPG")
+```
+
 We are collecting high-quality measurements from research vessels during satellite overpasses to serve as “ground truth” for validating key satellite products, including:
 
 - Phytoplankton carbon biomass
