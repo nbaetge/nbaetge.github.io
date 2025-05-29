@@ -14,6 +14,8 @@ navbar:
         href: Smoke_on_the_water.html
       - text: Diel phytoplankton optical properties
         href: Diel_phyto_optics.html
+      - text: PACE Science Validation Team
+        href: pvst.html
       - text: Previous
       - text: NAAMES
         href: NAAMES.html
