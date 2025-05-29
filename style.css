@@ -98,12 +98,12 @@ a.dropdown-toggle:hover {
 
 /* Dropdown menu color */
 .navbar-inverse .dropdown-menu {
-  background-color: ##0280B2;
+  background-color: #0280B2;
 }
 
 /* Dropdown menu hover color */
   .navbar-inverse .dropdown-menu>li>a:hover {
-    background-color: #0280B2;
+    background-color:  #00a88f;
   }
 
 /* Navbar Links when hovered*/
