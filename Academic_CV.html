@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="Nicholas Baetge" />
-    <meta name="date" content="2025-05-27" />
+    <meta name="date" content="2025-10-29" />
     <title>Nicholas Baetge</title>
 
     
@@ -31742,7 +31742,7 @@ width: unset;
       const anchors = content.querySelectorAll('a[href^="#"]:not([href*=":"])');
       for (const a of anchors) {
         const ref = a.getAttribute('href').replace(/^#/, '');
-        const element = content.getElementById(ref);
+        const element = content.getElementById(decodeURIComponent(ref));
         if (frontMatter.contains(element)) a.classList.add('front-matter-ref');
       }
 
@@ -31981,7 +31981,7 @@ width: unset;
       const tocAnchors = content.querySelectorAll('.toc a[href^="#"]:not([href*=":"]');
       for (const anchor of tocAnchors) {
         const ref = anchor.getAttribute('href').replace(/^#/, '');
-        const element = content.getElementById(ref);
+        const element = content.getElementById(decodeURIComponent(ref));
         if (element.classList.contains('chapter')) {
           anchor.classList.add('chapter-ref');
         }
@@ -32361,6 +32361,7 @@ Corvallis, OR 97331</li>
 <div id="skills" class="section level2">
 <h2>Training</h2>
 <ul>
+<li><i class="fa fa-chalkboard"></i> Oregon State University Unsealead Radioactive Material Safety (2025)</li>
 <li><i class="fa fa-chalkboard"></i> Chief Scientist Workshop (2024)
 – NSF-UNOLS travel award</li>
 <li><i class="fa fa-chalkboard"></i> PACE Hackweek (2024)
@@ -32368,7 +32369,9 @@ Corvallis, OR 97331</li>
 <li><i class="fa fa-chalkboard"></i> Cornell Satellite Remote Sensing Program (2023)
 – OCB travel award</li>
 <li><i class="fa fa-chalkboard"> </i> Calibration and Validation for Ocean Color Remote Sensing (2021) – NASA and OCB travel award</li>
+<li><i class="fa fa-chalkboard"> </i> Maritime Institute Personal Survival Techniques (2020)</li>
 <li><i class="fa fa-chalkboard"></i> Bermuda Institute of Ocean Sciences Microbial Oceanography (2014) – The Starr Foundation travel award</li>
+<li><i class="fa fa-chalkboard"></i> University of California, Santa Barbara 3H (15 mCi) and 14C (20 mCi) Radioisotope Training (2013, refresher 2020)</li>
 </ul>
 <!-- Skills  {#skills} -->
 <!-- -------------------------------------------------------------------------------- -->
@@ -32402,11 +32405,17 @@ Corvallis, OR 97331</li>
 </div>
 <div id="research-experience" class="section level2" data-icon="microscope" data-concise="true">
 <h2>Research Experience</h2>
+<div id="research-associate" class="section level3">
+<h3>Research Associate</h3>
+<p>Oregon State University</p>
+<p>N/A</p>
+<p>2025 - Present</p>
+</div>
 <div id="postdoctoral-research-fellow" class="section level3">
 <h3>Postdoctoral Research Fellow</h3>
 <p>Oregon State University</p>
 <p>N/A</p>
-<p>2023 - Present</p>
+<p>2023 - 2025</p>
 </div>
 <div id="postdoctoral-scholar" class="section level3">
 <h3>Postdoctoral Scholar</h3>
@@ -32423,6 +32432,18 @@ Corvallis, OR 97331</li>
 </div>
 <div id="fellowships-and-awards" class="section level2" data-icon="award" data-concise="true">
 <h2>Fellowships and Awards</h2>
+<div id="simons-foundation-international" class="section level3">
+<h3>Simons Foundation International</h3>
+<p><em>BIO-SCOPE: an interdisciplinary program exploring microbial mechanisms of ocean change</em> ($15M to 8 institutions) <br> <em>Co-I</em></p>
+<p>N/A</p>
+<p>2025 - 30</p>
+</div>
+<div id="oregon-state-university-transdisciplinary-research-seed-fund" class="section level3">
+<h3>Oregon State University Transdisciplinary Research Seed Fund</h3>
+<p><em>Advancing coastal community resilience to Oregon wildfires</em> ($50K) <br> *Unfunded collaborator</p>
+<p>N/A</p>
+<p>2025 - 26</p>
+</div>
 <div id="american-geophysical-union" class="section level3">
 <h3>American Geophysical Union</h3>
 <p>Leadership Academy Network for Diversity and Inclusion in the Geosciences (LANDInG) Fellow</p>
@@ -32453,23 +32474,17 @@ Corvallis, OR 97331</li>
 <p>N/A</p>
 <p>2017</p>
 </div>
-<div id="bermuda-institute-of-ocean-sciences" class="section level3">
-<h3>Bermuda Institute of Ocean Sciences</h3>
-<p>Sydney L Wright Fellowship ($1K)</p>
-<p>N/A</p>
-<p>2017</p>
-</div>
-<div id="university-of-california-santa-barbara-coastal-fund-1" class="section level3">
-<h3>University of California, Santa Barbara Coastal Fund</h3>
-<p><em>Across the Channel: Investigating Diel Dynamics</em> ($12K)</p>
-<p>N/A</p>
-<p>2017</p>
-</div>
 <div id="united-states-congress" class="section level3">
 <h3>United States Congress</h3>
 <p>Antarctic Service Medal</p>
 <p>N/A</p>
 <p>2014</p>
+</div>
+<div id="bermuda-institute-of-ocean-sciences" class="section level3">
+<h3>Bermuda Institute of Ocean Sciences</h3>
+<p>Sydney L Wright Fellowship ($1K)</p>
+<p>N/A</p>
+<p>2013</p>
 </div>
 <div id="university-of-california-santa-barbara-department-of-geography" class="section level3">
 <h3>University of California, Santa Barbara Department of Geography</h3>
@@ -32477,7 +32492,7 @@ Corvallis, OR 97331</li>
 <p>N/A</p>
 <p>2013</p>
 </div>
-<div id="university-of-california-santa-barbara-coastal-fund-2" class="section level3">
+<div id="university-of-california-santa-barbara-coastal-fund-1" class="section level3">
 <h3>University of California, Santa Barbara Coastal Fund</h3>
 <p><em>Growth, bacterial resilience, and mucosal microbial assemblages of wild and cultured intertidal finfish along the California coast</em> ($3.5K)</p>
 <p>N/A</p>
@@ -32492,17 +32507,17 @@ Corvallis, OR 97331</li>
 </div>
 <div id="publications-in-peer-reviewed-journals" class="section level2" data-icon="newspaper" data-concise="true">
 <h2>Publications in Peer-reviewed Journals</h2>
-<div id="pre-existing-phytoplankton-biomass-conditions-shape-coastal-plankton-response-to-fire-generated-ash-leachate" class="section level3">
-<h3><a href="https://doi.org/10.1002/lno.70087">Pre-existing phytoplankton biomass conditions shape coastal plankton response to fire-generated ash leachate</a></h3>
-<p><strong>Baetge, N.</strong>, Halsey, K.H., Hanan, E.J., Behrenfeld, M.J., Milligan, A.J., Graff, J.R., Hansen, P., Carlson, C.A., Boiteau, R.B., Arrington, E.A., Comstock, J., Halewood, E.R., Harvey, E.L., Nelson, N.B., Opalk, K., Very Wey, B.<em>Limnology and Oceanography</em></p>
-<p>N/A</p>
-<p>2025</p>
-</div>
 <div id="molecular-oxygenation-and-fertilization-of-the-santa-barbara-coastal-ocean-during-the-2017-thomas-fire-california-usa" class="section level3">
 <h3>Molecular oxygenation and fertilization of the Santa Barbara coastal ocean during the 2017 Thomas Fire (California, USA)</h3>
 <p>Goranov, A.I., Schmitt, N., Agar, J., Harvey, E., <strong>Baetge, N.</strong>, McNair, H., Arrington, E., Stubbins, A., Wagner, S. in review. <em>Environmental Science &amp; Technology</em></p>
 <p>N/A</p>
 <p>in review</p>
+</div>
+<div id="pre-existing-phytoplankton-biomass-conditions-shape-coastal-plankton-response-to-fire-generated-ash-leachate" class="section level3">
+<h3><a href="https://doi.org/10.1002/lno.70087">Pre-existing phytoplankton biomass conditions shape coastal plankton response to fire-generated ash leachate</a></h3>
+<p><strong>Baetge, N.</strong>, Halsey, K.H., Hanan, E.J., Behrenfeld, M.J., Milligan, A.J., Graff, J.R., Hansen, P., Carlson, C.A., Boiteau, R.B., Arrington, E.A., Comstock, J., Halewood, E.R., Harvey, E.L., Nelson, N.B., Opalk, K., Very Wey, B.<em>Limnology and Oceanography</em></p>
+<p>N/A</p>
+<p>2025</p>
 </div>
 <div id="physiological-and-interspecific-factors-determine-diel-changes-in-phytoplankton-bio-optical-properties" class="section level3">
 <h3><a href="https://doi.org/10.1002/lno.12493">Physiological and interspecific factors determine diel changes in phytoplankton bio-optical properties</a></h3>
@@ -32713,11 +32728,17 @@ Corvallis, OR 97331</li>
 </div>
 <div id="invited-lectures" class="section level2" data-icon="person-chalkboard" data-concise="true">
 <h2>Invited Lectures</h2>
-<div id="organic-carbon-cycling-in-the-ocean" class="section level3">
-<h3>Organic carbon cycling in the ocean</h3>
-<p>Biological Oceanography Guest Lectures</p>
-<p>Oregon Institute of Marine Biology</p>
-<p>December 2024</p>
+<div id="wildfire-smoke-and-the-ocean-microbial-responses-and-organic-matter-bioavailability" class="section level3">
+<h3>Wildfire smoke and the ocean: microbial responses and organic matter bioavailability</h3>
+<p>College of Earth, Ocean, and Atmospheric Sciences Seminar Series</p>
+<p>Oregon State University</p>
+<p>Oct 2025</p>
+</div>
+<div id="wildfire-smoke-and-the-ocean-microbial-responses-and-organic-matter-bioavailability-1" class="section level3">
+<h3>Wildfire smoke and the ocean: microbial responses and organic matter bioavailability</h3>
+<p>Ecology Seminar Series</p>
+<p>Scripps Institution of Oceanography</p>
+<p>Oct 2025</p>
 </div>
 <div id="smoke-on-the-water-the-impacts-of-wildfire-ash-deposition-on-surface-ocean-biology" class="section level3">
 <h3>Smoke on the water: the impacts of wildfire ash deposition on surface ocean biology</h3>
@@ -32818,9 +32839,21 @@ Corvallis, OR 97331</li>
 </div>
 <div id="teaching" class="section level2" data-icon="person-chalkboard" data-concise="true">
 <h2>Teaching</h2>
+<div id="guest-lecture-and-research-cruise-the-life-of-a-bloom-from-seasonal-rhythms-to-wildfire-smoke" class="section level3">
+<h3>Guest Lecture and Research Cruise (The life of a bloom: from seasonal rhythms to wildfire smoke)</h3>
+<p>Biological Oceanography (BI 458/558)</p>
+<p>Oregon Institute of Marine Biology</p>
+<p>Oct 2025</p>
+</div>
+<div id="guest-lecture-organic-carbon-cycling-in-the-ocean" class="section level3">
+<h3>Guest Lecture (Organic carbon cycling in the ocean)</h3>
+<p>Biological Oceanography (BI 458/558)</p>
+<p>Oregon Institute of Marine Biology</p>
+<p>Dec 2024</p>
+</div>
 <div id="guest-lecture-measuring-photosynthesis" class="section level3">
 <h3>Guest Lecture (Measuring photosynthesis)</h3>
-<p>Botany and Plant Pathology 480/580</p>
+<p>Photosynthesis and Photobiology (BOT 480/580)</p>
 <p>Oregon State University</p>
 <p>May 2024</p>
 </div>
@@ -32844,7 +32877,7 @@ Corvallis, OR 97331</li>
 </div>
 <div id="mentor" class="section level3">
 <h3>Mentor</h3>
-<p>UCSB Summer Sessions: Research Mentorship Program</p>
+<p>UCSB Summer Sessions: Research Mentorship Program (for highschool students)</p>
 <p>University of California, Santa Barbara</p>
 <p>Jul - Aug 2012</p>
 </div>
@@ -32859,7 +32892,7 @@ Corvallis, OR 97331</li>
 </div>
 <div id="ad-hoc-peer-review" class="section level3">
 <h3>Ad-hoc Peer Review</h3>
-<p>Science Advances (1), Aquatic Microbial Ecology (1), ISME (1), mbio (1), Marine Chemistry (1), JGR Biogeosciences (1), Global Biogeochemical Cycles (1, with ECR co-reviewer)</p>
+<p>Science Advances (1), Applied and Environmental Microbiology (1), ISME (1), mbio (1), Marine Chemistry (1), JGR Biogeosciences (1), Global Biogeochemical Cycles (1, with ECR co-reviewer), Environmental Microbiology (1)</p>
 <p>N/A</p>
 <p>N/A</p>
 </div>

@@ -36,7 +36,7 @@ navbar:
       - text: Funding for international students
         href: International_resources.html  
       icon: fa-folder
-    - text: Coding Resources
+    - text: Coding and Book Recommendations 
       href: Coding_resources.html
       icon: fa-code  
     - text: AJEDI Resources
