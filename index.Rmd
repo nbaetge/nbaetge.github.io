@@ -26,11 +26,11 @@ knitr::include_graphics("images/IMG_1740.JPG")
   </p>
 
   <p>
-      During my doctoral research at UC Santa Barbara, I studied the temporal and spatial variability of dissolved organic matter (DOM) and its bioavailability during the annual North Atlantic phytoplankton bloom. An impactful experience was leading a student cruise in the Santa Barbara Channel amidst the Thomas Fire, which deepened my interest in wildfire smoke's effects on ocean ecosystems.
+      During my doctoral research at UC Santa Barbara, I studied the temporal and spatial variability of dissolved organic matter (DOM) and its bioavailability during the annual North Atlantic phytoplankton bloom. An impactful experience was leading a student cruise in the Santa Barbara Channel amidst the Thomas Fire, which deepened my interest in wildfire smoke's effects on ocean ecosystems. As a postdoctoral researcher at Oregon State University, I investigated the physiological responses of marine plankton to wildfire-derived ash as well as diel cycles in phytoplankton optical properties.
   </p>
 
   <p>
-      Currently, as a postdoctoral researcher at Oregon State University, I am involved in projects investigating the physiological responses of marine plankton to wildfire-derived ash, diel cycles in phytoplankton optical properties, and validation efforts for NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission.
+      Currently, I am a research associate at Oregon State University helping to advance validation efforts for NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission.
     </p>
   </div>
 
