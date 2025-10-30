@@ -1,143 +1,100 @@
-/* ======================================================================
-   Fonts
-   ====================================================================== */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
+/* --- Global rhythm & sizing --- */
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
 
-:root{
-  --brand-teal: #00a88f;
-  --brand-blue: #0280B2;
-  --brand-gray: #6d6e71;
-  --text: #000000;
-  --muted: #666666;
-  --bg: #ffffff;
-  --nav-height: 70px;        /* adjust if your navbar is taller/shorter */
-  --content-pad: 2rem;
-  --line: 1.6;
-}
-
-/* Ensure anchor jumps account for fixed navbar (modern approach) */
-html {
-  box-sizing: border-box;
-  scroll-padding-top: var(--nav-height);
-}
-*, *::before, *::after { box-sizing: inherit; }
-
-/* ======================================================================
-   Base
-   ====================================================================== */
-body{
-  font-family: "Avenir", "Lato", "Merriweather", system-ui, -apple-system,
-               "Segoe UI", Roboto, Arial, sans-serif;
-  color: var(--text);
-  background-color: var(--bg);
+body {
+  font-family: "Avenir", "Lato", "Merriweather", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  color: #000;
   font-size: 16px;
-  line-height: var(--line);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6;            /* prevents line overlap */
+  background-color: #fff;
 }
 
-/* Titles / headings */
-.title{
-  font-family: "Avenir", "Lato", "Merriweather", system-ui, -apple-system,
-               "Segoe UI", Roboto, Arial, sans-serif;
-  color: var(--brand-teal);
+/* Headings: remove huge padding; use reasonable spacing + scroll offset */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;           /* tighter but non-overlapping */
+  margin-top: 2rem;            /* space above sections */
+  margin-bottom: 0.75rem;
+  padding-top: 0 !important;   /* kill the 8em padding */
+  scroll-margin-top: 90px;     /* fixes anchor jump under fixed navbar */
+}
+
+/* If your theme adds negative margins to .section headings, neutralize them */
+.section h1,
+.section h2,
+.section h3,
+.section h4,
+.section h5 {
+  margin-top: 2rem;
+  padding-top: 0 !important;   /* was 8em; this causes overlap */
+}
+
+/* Title styling (keep your colors, add line-height) */
+.title {
+  font-family: "Avenir", "Lato", "Merriweather", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  color: #00a88f;
   font-size: 26px;
   line-height: 1.25;
-  margin-top: 3em;
+  margin-top: 3em !important;
   margin-bottom: 1.25em;
 }
 
-h1, h2, h3, h4, h5, h6{
-  font-family: "Avenir", "Lato", "Merriweather", system-ui, -apple-system,
-               "Segoe UI", Roboto, Arial, sans-serif;
-  line-height: 1.25;
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
-  /* Remove theme hacks that push sections under the navbar */
-  padding-top: 0 !important;
-  scroll-margin-top: var(--nav-height);
-}
-
-h1 { color: var(--brand-blue); font-size: 24px; }
-h2 { color: var(--brand-gray); font-size: 22px; }
-h3 { color: var(--brand-blue); font-size: 18px; }
-h4 { color: var(--brand-teal); font-size: 16px; font-style: italic; }
-h5, h6 { color: var(--brand-gray); }
-
-/* Paragraph rhythm */
-p { margin: 0 0 1rem; }
+/* Typography sizes (unchanged from yours, with line-height safety) */
+h1 { font-family: "Avenir"; color: #0280B2; font-size: 24px; }
+h2 { font-family: "Avenir"; color: #6d6e71; font-size: 22px; }
+h3 { font-family: "Avenir"; color: #0280B2; font-size: 18px; }
+h4 { font-family: "Avenir"; color: #00a88f; font-size: 16px; font-style: italic; }
+.caption { font-size: 14px; font-family: "Avenir"; color: #00a88f; }
 
 /* Links */
-a { color: var(--brand-teal); text-decoration: none; }
-a:hover, a:focus { color: #50a0b0; text-decoration: underline; }
+a { color: #00a88f; }
+a:hover { color: #50a0b0; }
 
-/* Figure captions, small text */
-.caption, figcaption, .figure .caption{
-  font-size: 14px;
-  color: var(--brand-teal);
-}
+/* Code blocks on white */
+pre, pre:not([class]) { background-color: #fff; }
 
-/* Lists */
-ul, ol { margin: 0 0 1rem 1.25rem; }
-
-/* Images, figures */
-img, video, iframe{ max-width: 100%; height: auto; }
-figure { margin: 1.25rem 0; }
-
-/* Code blocks */
-pre, pre:not([class]) {
-  background-color: #fff;
-  border: 1px solid #eee;
-  border-radius: 4px;
-  padding: 0.75rem 1rem;
-  overflow: auto;
-}
-code, kbd, samp {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-               "Liberation Mono", "Courier New", monospace;
-  font-size: 0.95em;
-}
-
-/* Blockquotes */
-blockquote{
-  border-left: 4px solid #e6f4f2;
-  padding: 0.5rem 1rem;
-  color: var(--muted);
-  margin: 1rem 0;
-  background: #fafefe;
-}
-
-/* Tables */
-table{
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
-  font-size: 0.98rem;
-}
-th, td{
-  border: 1px solid #eee;
-  padding: 0.5rem 0.75rem;
-  vertical-align: top;
-}
-thead th{
-  background: #f7fbfc;
-  color: #024d6a;
-  font-weight: 700;
-}
-
-/* ======================================================================
-   Layout & TOC (R Markdown / Distill friendly)
-   ====================================================================== */
-
-/* Don’t override Bootstrap grid widths; just add gentle padding */
-@media (min-width: 992px){
-  .col-md-9,
-  .toc-content {           /* rmarkdown::html_document with toc_float */
-    padding-left: var(--content-pad) !important;
-    padding-right: 1rem;
+/* --- Layout: don't fight Bootstrap's column widths --- */
+/* Remove custom width that can push content under TOC and overlap */
+@media (min-width: 992px) {
+  .col-md-9 {
+    /* width: 75%;  <-- remove this */
+    padding-left: 2rem !important;  /* gentle breathing room instead of 5em */
   }
 }
 
-/* If a theme sets negative margins/padding on section headings, neutralize */
-.section h1, .section h2, .section h3, .section h4, .section h5, .section h6{
-  margin-top: 2
+/* If your R Markdown uses .toc-content / .tocify (common in rmarkdown site) */
+@media (min-width: 992px) {
+  .toc-content { padding-left: 2rem; }
+}
+
+/* --- Fixed navbar adjustments --- */
+.navbar-inverse { background-color: #0280B2; }
+
+/* Fix selector comma (prevents weird cascade) */
+.navbar-inverse .dropdown-menu>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav:hover,
+.navbar-inverse .navbar-nav>li>a:hover,
+a.navbar-brand:hover {
+  color: #ffffffab !important;
+  background-color: #0280B2;
+}
+
+/* Open/active state color */
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.active>a,
+a.dropdown-toggle:hover {
+  background-color: #00a88f !important;
+}
+
+/* Dropdown menu colors */
+.navbar-inverse .dropdown-menu { background-color: #0280B2; }
+.navbar-inverse .dropdown-menu>li>a:hover { background-color: #00a88f; }
+
+/* --- Responsive header area you added --- */
+@media (max-width: 700px) {
+  .header-container { display: flex; flex-direction: column; align-items: flex-start; }
+  .profile-photo { margin-right: 0; margin-bottom: 15px; min-width: 100%; }
+  .bio-video-container { display: flex; flex-direction: column; }
+  .bio-video { min-width: 100%; max-height: none; }
+}
