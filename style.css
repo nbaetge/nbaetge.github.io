@@ -1,138 +1,143 @@
+/* ======================================================================
+   Fonts
+   ====================================================================== */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
 
- /*------------- Whole Document---------------- */
+:root{
+  --brand-teal: #00a88f;
+  --brand-blue: #0280B2;
+  --brand-gray: #6d6e71;
+  --text: #000000;
+  --muted: #666666;
+  --bg: #ffffff;
+  --nav-height: 70px;        /* adjust if your navbar is taller/shorter */
+  --content-pad: 2rem;
+  --line: 1.6;
+}
 
-.title {
-    font-family: "Avenir";
-    color: #00a88f;
-    font-size: 26px;
-} 
+/* Ensure anchor jumps account for fixed navbar (modern approach) */
+html {
+  box-sizing: border-box;
+  scroll-padding-top: var(--nav-height);
+}
+*, *::before, *::after { box-sizing: inherit; }
 
-h1 {
-    font-family: "Avenir";
-    color: #0280B2;
-    font-size: 24px;
-} 
-
-h2 {
-    font-family: "Avenir";
-    color: #6d6e71;
-    font-size: 22px;
-} 
-
-h3 {
-    font-family: "Avenir";
-    color: #0280B2;
-    font-size: 18px;
-} 
-
-h4 {
-    font-family: "Avenir";
-    color: #00a88f;
-    font-size: 16px;
-    font-style: italic;
-} 
-
+/* ======================================================================
+   Base
+   ====================================================================== */
 body{
-  font-family: 'Avenir';
-  color: black;
+  font-family: "Avenir", "Lato", "Merriweather", system-ui, -apple-system,
+               "Segoe UI", Roboto, Arial, sans-serif;
+  color: var(--text);
+  background-color: var(--bg);
   font-size: 16px;
+  line-height: var(--line);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-/* links */
-a { 
-  color: #00a88f;
-}
-
-
-
-a:hover {
- color: #50a0b0; /* darker color when hovering */
-}
-
-.caption {
-    font-size: 14px;
-    font-family: "Avenir";
-    color: #00a88f;
-}
-
-body { background-color: white; }
-    pre, pre:not([class]) { background-color: white; }
-
-/*----------------ADDING WHITE SPACE-------------*/
-
-.title {
-  margin-top: 3em !important;
+/* Titles / headings */
+.title{
+  font-family: "Avenir", "Lato", "Merriweather", system-ui, -apple-system,
+               "Segoe UI", Roboto, Arial, sans-serif;
+  color: var(--brand-teal);
+  font-size: 26px;
+  line-height: 1.25;
+  margin-top: 3em;
   margin-bottom: 1.25em;
 }
 
-.section h1,
-.section h2, 
-.section h3, 
-.section h4, 
-.section h5 { 
-  padding-top: 8em !important; /*adding so much padding because theme adds a margin-top: -65px by default */
-  margin-bottom: 1.25em;
+h1, h2, h3, h4, h5, h6{
+  font-family: "Avenir", "Lato", "Merriweather", system-ui, -apple-system,
+               "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.25;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  /* Remove theme hacks that push sections under the navbar */
+  padding-top: 0 !important;
+  scroll-margin-top: var(--nav-height);
 }
 
- /* Space Between TOC and 
-  Righthand side content on large screens */
+h1 { color: var(--brand-blue); font-size: 24px; }
+h2 { color: var(--brand-gray); font-size: 22px; }
+h3 { color: var(--brand-blue); font-size: 18px; }
+h4 { color: var(--brand-teal); font-size: 16px; font-style: italic; }
+h5, h6 { color: var(--brand-gray); }
 
- @media (min-width: 992px) {
-    .col-md-9 {
-      width: 75%;
-      padding-left: 5em !important;
-    }
- }
- 
- /*----------------NAVBAR ---------------*/
-.navbar-inverse {
-    background-color: #0280B2;
+/* Paragraph rhythm */
+p { margin: 0 0 1rem; }
+
+/* Links */
+a { color: var(--brand-teal); text-decoration: none; }
+a:hover, a:focus { color: #50a0b0; text-decoration: underline; }
+
+/* Figure captions, small text */
+.caption, figcaption, .figure .caption{
+  font-size: 14px;
+  color: var(--brand-teal);
 }
 
-.navbar-inverse .navbar-nav>.open>a, 
-.navbar-inverse .navbar-nav>.active>a, 
-a.dropdown-toggle:hover {
-  background-color: #00a88f !important;
+/* Lists */
+ul, ol { margin: 0 0 1rem 1.25rem; }
+
+/* Images, figures */
+img, video, iframe{ max-width: 100%; height: auto; }
+figure { margin: 1.25rem 0; }
+
+/* Code blocks */
+pre, pre:not([class]) {
+  background-color: #fff;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+  overflow: auto;
+}
+code, kbd, samp {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+               "Liberation Mono", "Courier New", monospace;
+  font-size: 0.95em;
 }
 
-/* Dropdown menu color */
-.navbar-inverse .dropdown-menu {
-  background-color: #0280B2;
+/* Blockquotes */
+blockquote{
+  border-left: 4px solid #e6f4f2;
+  padding: 0.5rem 1rem;
+  color: var(--muted);
+  margin: 1rem 0;
+  background: #fafefe;
 }
 
-/* Dropdown menu hover color */
-  .navbar-inverse .dropdown-menu>li>a:hover {
-    background-color:  #00a88f;
+/* Tables */
+table{
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.98rem;
+}
+th, td{
+  border: 1px solid #eee;
+  padding: 0.5rem 0.75rem;
+  vertical-align: top;
+}
+thead th{
+  background: #f7fbfc;
+  color: #024d6a;
+  font-weight: 700;
+}
+
+/* ======================================================================
+   Layout & TOC (R Markdown / Distill friendly)
+   ====================================================================== */
+
+/* Don’t override Bootstrap grid widths; just add gentle padding */
+@media (min-width: 992px){
+  .col-md-9,
+  .toc-content {           /* rmarkdown::html_document with toc_float */
+    padding-left: var(--content-pad) !important;
+    padding-right: 1rem;
   }
-
-/* Navbar Links when hovered*/
-.navbar-inverse .dropdown-menu>.active>a
-.navbar-inverse .navbar-nav>.active>a:hover, 
-.navbar-inverse .navbar-nav:hover, 
-.navbar-inverse .navbar-nav>li>a:hover, 
-a.navbar-brand:hover {
-  color: #ffffffab !important;
-  background-color: #0280B2;
 }
 
- /* Responsive for mobile */
-  @media (max-width: 700px) {
-    .header-container {
-      flex-direction: column;
-      align-items: flex-start;
-    }
-    .profile-photo {
-      margin-right: 0;
-      margin-bottom: 15px;
-      min-width: 100%;
-    }
-    .bio-video-container {
-      flex-direction: column;
-    }
-    .bio-video {
-      min-width: 100%;
-      max-height: none;
-    }
-  }
-
+/* If a theme sets negative margins/padding on section headings, neutralize */
+.section h1, .section h2, .section h3, .section h4, .section h5, .section h6{
+  margin-top: 2
