@@ -1,100 +1,110 @@
-/* --- Global rhythm & sizing --- */
-html { box-sizing: border-box; }
-*, *:before, *:after { box-sizing: inherit; }
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
 
-body {
+/* ---------- Base ---------- */
+html { box-sizing: border-box; scroll-behavior: smooth; }
+*, *::before, *::after { box-sizing: inherit; }
+
+body{
   font-family: "Avenir", "Lato", "Merriweather", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   color: #000;
   font-size: 16px;
-  line-height: 1.6;            /* prevents line overlap */
-  background-color: #fff;
+  line-height: 1.6;
+  background: #fff;
+  margin: 0;
 }
 
-/* Headings: remove huge padding; use reasonable spacing + scroll offset */
-h1, h2, h3, h4, h5, h6 {
-  line-height: 1.25;           /* tighter but non-overlapping */
-  margin-top: 2rem;            /* space above sections */
-  margin-bottom: 0.75rem;
-  padding-top: 0 !important;   /* kill the 8em padding */
-  scroll-margin-top: 90px;     /* fixes anchor jump under fixed navbar */
-}
-
-/* If your theme adds negative margins to .section headings, neutralize them */
-.section h1,
-.section h2,
-.section h3,
-.section h4,
-.section h5 {
-  margin-top: 2rem;
-  padding-top: 0 !important;   /* was 8em; this causes overlap */
-}
-
-/* Title styling (keep your colors, add line-height) */
+/* ---------- Headings ---------- */
 .title {
-  font-family: "Avenir", "Lato", "Merriweather", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-family: "Avenir";
   color: #00a88f;
   font-size: 26px;
-  line-height: 1.25;
-  margin-top: 3em !important;
-  margin-bottom: 1.25em;
+  line-height: 1.3;
+  margin: 3em 0 1.25em;
 }
 
-/* Typography sizes (unchanged from yours, with line-height safety) */
-h1 { font-family: "Avenir"; color: #0280B2; font-size: 24px; }
-h2 { font-family: "Avenir"; color: #6d6e71; font-size: 22px; }
-h3 { font-family: "Avenir"; color: #0280B2; font-size: 18px; }
-h4 { font-family: "Avenir"; color: #00a88f; font-size: 16px; font-style: italic; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Avenir";
+  line-height: 1.25;
+  margin: 2rem 0 0.75rem;
+  padding-top: 0;                 /* critical: no padding to avoid overlap */
+  scroll-margin-top: 85px;        /* anchor offset under fixed navbar */
+}
+h1 { color: #0280B2; font-size: 24px; }
+h2 { color: #6d6e71; font-size: 22px; }
+h3 { color: #0280B2; font-size: 18px; }
+h4 { color: #00a88f; font-size: 16px; font-style: italic; }
+
+/* Some themes wrap headings under .section */
+.section h1, .section h2, .section h3, .section h4, .section h5, .section h6 {
+  padding-top: 0; margin-top: 2rem;
+}
+
 .caption { font-size: 14px; font-family: "Avenir"; color: #00a88f; }
 
-/* Links */
-a { color: #00a88f; }
-a:hover { color: #50a0b0; }
+/* ---------- Links ---------- */
+a { color: #00a88f; text-decoration: none; }
+a:hover { color: #50a0b0; text-decoration: underline; }
 
-/* Code blocks on white */
-pre, pre:not([class]) { background-color: #fff; }
+/* ---------- Code / Pre ---------- */
+pre, pre:not([class]) {
+  background: #fff;
+  border: 1px solid #eee;
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+  line-height: 1.4;
+}
 
-/* --- Layout: don't fight Bootstrap's column widths --- */
-/* Remove custom width that can push content under TOC and overlap */
+/* ---------- Content layout (non-invasive) ---------- */
 @media (min-width: 992px) {
-  .col-md-9 {
-    /* width: 75%;  <-- remove this */
-    padding-left: 2rem !important;  /* gentle breathing room instead of 5em */
+  .toc-content, .col-md-9 {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
   }
 }
 
-/* If your R Markdown uses .toc-content / .tocify (common in rmarkdown site) */
-@media (min-width: 992px) {
-  .toc-content { padding-left: 2rem; }
-}
-
-/* --- Fixed navbar adjustments --- */
-.navbar-inverse { background-color: #0280B2; }
-
-/* Fix selector comma (prevents weird cascade) */
-.navbar-inverse .dropdown-menu>.active>a,
-.navbar-inverse .navbar-nav>.active>a:hover,
-.navbar-inverse .navbar-nav:hover,
-.navbar-inverse .navbar-nav>li>a:hover,
-a.navbar-brand:hover {
-  color: #ffffffab !important;
+/* ---------- Navbar (slim & safe) ---------- */
+.navbar-inverse {
   background-color: #0280B2;
+  border: none;
+  min-height: 46px;
+  padding: 4px 0;
+  font-size: 15px;
 }
-
-/* Open/active state color */
-.navbar-inverse .navbar-nav>.open>a,
-.navbar-inverse .navbar-nav>.active>a,
-a.dropdown-toggle:hover {
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+  padding: 10px 12px;           /* keeps bar slim even with many pages */
+  line-height: 22px;
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .open > a {
   background-color: #00a88f !important;
+  color: #fff !important;
+}
+a.navbar-brand:hover { color: #ffffffab !important; background-color: #0280B2; }
+
+.navbar-inverse .dropdown-menu {
+  background: #0280B2;
+  border: none;
+}
+.navbar-inverse .dropdown-menu > li > a {
+  color: #fff; padding: 8px 14px;
+}
+.navbar-inverse .dropdown-menu > li > a:hover {
+  background: #00a88f; color: #fff;
 }
 
-/* Dropdown menu colors */
-.navbar-inverse .dropdown-menu { background-color: #0280B2; }
-.navbar-inverse .dropdown-menu>li>a:hover { background-color: #00a88f; }
+/* ---------- Media / Tables ---------- */
+img { max-width: 100%; height: auto; }
+table { width: 100%; border-collapse: collapse; margin-bottom: 1.5rem; }
+th, td { border: 1px solid #ddd; padding: 0.5rem; }
 
-/* --- Responsive header area you added --- */
+/* ---------- Mobile tweaks ---------- */
 @media (max-width: 700px) {
+  body { font-size: 15px; line-height: 1.55; }
   .header-container { display: flex; flex-direction: column; align-items: flex-start; }
-  .profile-photo { margin-right: 0; margin-bottom: 15px; min-width: 100%; }
+  .profile-photo { margin-right: 0; margin-bottom: 15px; width: 100%; }
   .bio-video-container { display: flex; flex-direction: column; }
-  .bio-video { min-width: 100%; max-height: none; }
+  .bio-video { width: 100%; max-height: none; }
 }
