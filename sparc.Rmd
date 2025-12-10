@@ -1,0 +1,18 @@
+---
+title: ""
+output: html_document
+---
+
+# SPARC - Symbiotic Partners of Asgard Research Cruise
+
+[SPARC](https://schmidtocean.org/cruise/searching-for-the-asgard/) was a 2025 research expedition aboard the [Schmidt Ocean Institute's R/V Falkor (too)](https://schmidtocean.org/) led by Drs. Brett Baker and Alyson Santoro. Our goal was to explore the Uruguayan seas in search of living Asgard archaea, a group of microbes considered the closest known relatives of eukaryotes, and their bacterial partners, to better understand how complex life emerged from simple cells. 
+
+<center><iframe width="560" height="315" src="https://youtu.be/Jy_boPdY0zo?si=xUbTeeiGzvqFxwQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+The origin of the first eukaryotic cell remains one of biology’s biggest unsolved questions. Recent genomic work shows that Asgard archaea share key genes with eukaryotes, suggesting they may resemble the microbes involved in eukaryogenesis, the evolutionary process in which an archaeal host and bacterial symbiont merged to form the earliest complex cell. During SPARC, we focused on identifying Hodarchaeales, an Asgard lineage thought to thrive in coastal mud where freshwater and seawater meet, including the mouth of Urugauy's Río de la Plata.  
+
+Working with the Santoro Lab, Dr. Jason Graff used cell-sorting flow cytometry to isolate and purify archaeal cells for downstream analyses including cultivation and sequencing. We also used this expedition as a cruise-of-opportunity to advance our [PACE Validation Science Team research](https://nbaetge.github.io/pvst.html), collecting optical and biogeochemical measurements to "ground-truth" satellite observations.
+
+<center><iframe width="560" height="315" src="https://youtu.be/mgmEh_qag5E?si=Qk9zpBCX7FDeShAT" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+

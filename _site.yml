@@ -16,6 +16,8 @@ navbar:
         href: Diel_phyto_optics.html
       - text: PACE Science Validation Team
         href: pvst.html
+      - text: SPARC
+        href: sparc.html  
       - text: Previous
       - text: NAAMES
         href: NAAMES.html
