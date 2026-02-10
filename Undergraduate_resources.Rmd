@@ -3,33 +3,15 @@ title: ""
 output: html_document
 ---
 
-[Google sheet of funding opportunities](https://docs.google.com/spreadsheets/d/1BaC0sX7I8_mMcXxIThEM2kZgSUqi7-l_BHZe_CUvuhw/edit?gid=194681346#gid=194681346)
+[Google sheet of funding opportunities - last update 10-2024](https://docs.google.com/spreadsheets/d/1BaC0sX7I8_mMcXxIThEM2kZgSUqi7-l_BHZe_CUvuhw/edit?gid=194681346#gid=194681346)
 
-# Oregon State University internal undergraduate support and opportunities
+# ASU-BIOS undergraduate support and opportunities
 
-- [Undergraduate, Research, Scholarship and the Arts (URSA)](https://undergraduate.oregonstate.edu/research)
+- [Research Experiences for Undergraduates (REU) at BIOS](https://bios.asu.edu/education/reu)
 
-- [OSU's New Beginnings for Tribal Students (NBTS) program has applications open for summer internship support](https://opencampus.oregonstate.edu/nbts)
+- [BIOS Internships](https://bios.asu.edu/education/internships-university-students)
 
-## College of Science
-
-- [Summer Undergraduate Research Experience (SURE)](https://science.oregonstate.edu/hands-on-experiences/undergraduate-research/sure-science-program)
-
-- [Launching Undergraduate Research Experiences (LURE)](https://science.oregonstate.edu/hands-on-experiences/undergraduate-research/lure-science-program)
-
-## College of Agricultural Sciences
-
-- [Beginning Researcher Support Program](https://agsci.oregonstate.edu/education/undergraduate-research/beginning-researcher-support-program)
-
-- [Continuing Researcher Support Program](https://agsci.oregonstate.edu/education/undergraduate-research/continuing-researcher-support-program)
-
-- [Branch Experiment Stations (BES) Research Internships](https://agsci.oregonstate.edu/academics/internships/branch-experiment-stations-internship-program)
-
-- [2025 Research and Extension Experiences for Undergraduates (REEU) program](https://oregonstate-idea.terradotta.com/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10845)
-
-## CEOS
-
-- [Summer Research Internships](https://ceoas.oregonstate.edu/summer-research-internships-undergraduates)
+- [Summer courses at Bermuda Institute of Ocean Sciences](https://www.us-ocb.org/science-support/student-opportunities/)
 
 # External undergraduate support and opportunities
 
@@ -46,8 +28,6 @@ output: html_document
 - [NOAA Ernest F. Hollings and EPP Undergraduate Scholarship Programs](https://oedwebdbapps.iso.noaa.gov/uspa/)
 
 - [The William M. Lapenta NOAA Student Internship Program](https://vlab.noaa.gov/web/lapenta-internship-program)
-
-- [Summer courses at Bermuda Institute of Ocean Sciences](https://www.us-ocb.org/science-support/student-opportunities/)
 
 - [AMS Women in Science Scholarship](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/women-in-science-scholarship/)
 

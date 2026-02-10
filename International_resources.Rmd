@@ -15,8 +15,6 @@ output: html_document
 
 - [Schlanger Ocean Drilling Fellowship for research using data/samples from the International Ocean Discovery Program (one year towards Ph.D.)](https://usoceandiscovery.org/fellowships/)
 
-- [Society of Exploration Geophysicists Scholarship for  high school seniors, undergraduates, or graduate students pursuing a college curriculum in applied geophysics](https://seg.org/programs/student-programs/scholarships/)
-
 - [Paul & Daisy Soros Fellowships for New Americans who are (1) is a resident alien; i.e., holds a Green Card, or, (2) has been naturalized as a U.S. citizen, or (3) is the child of two parents who are both naturalized citizens.](https://www.pdsoros.org)
 
 - [Smithsonian Tropical Research Institute (STRI) for graduate, doctoral, and post-doctoral research exploring Panama's ecosystems while based at STRI](https://stri.si.edu/academic-programs/fellowships)

@@ -10,6 +10,8 @@ navbar:
     - text: Projects
       menu:
       - text: Current
+      - text: BIOS-SCOPE
+        href: BIOSSCOPE.html
       - text: Smoke on the water
         href: Smoke_on_the_water.html
       - text: Diel phytoplankton optical properties

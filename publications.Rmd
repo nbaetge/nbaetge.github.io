@@ -7,7 +7,9 @@ output: html_document
 
 #### [Google Scholar](https://scholar.google.com/citations?user=Ca8wN7sAAAAJ&hl=en&authuser=1)
 
-### in prep
+### submitted
+
+**Baetge, N.**, Halewood, E., Opalk, K., Wear, E., Carlson, C. High-throughput assessments of marine DOC bioavailability with flow-through bioreactors.
 
 Goranov, A.I., Schmitt, N., Agar, J., Harvey, E., **Baetge, N.**, McNair, H., Arrington, E., Stubbins, A., Wagner, S. in prep. Molecular delineation and fertilization of dissolved organic matter of Santa Barbara coastal waters during the Thomas Fire (California, USA).
 

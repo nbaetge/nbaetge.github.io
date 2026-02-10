@@ -39,11 +39,11 @@ A graduate degree (MS, PhD) is not required to land a good job in science, but i
 
 ### Prepare a curriculum vitae
 
-- 1-page. It’s ok at your career stage if you don’t have much on there. Some things to include are your name and contact information, work and/or volunteer experiences from high school and/or college, your major and GPA, relevant coursework (this may change depending on who you’re giving it to), any other qualifications or skills. [OSU's Career Development Center](https://career.oregonstate.edu/careered/create-résumés-cvs-and-cover-letters) is a great resource for guidance.
+- 1-page. It’s ok at your career stage if you don’t have much on there. Some things to include are your name and contact information, work and/or volunteer experiences from high school and/or college, your major and GPA, relevant coursework (this may change depending on who you’re giving it to), any other qualifications or skills. [ASU's Career Services](https://career.eoss.asu.edu/channels/resume-application-materials/) is a great resource for guidance.
 
 ### Identify programs, scholarships, research programs you're interested in
 
-- Look through the faculty profiles on departmental webpages in the field(s) you’re interested in (e.g., [Microbiology](https://microbiology.oregonstate.edu) or [Botany and Plant Pathology](https://catalog.oregonstate.edu/college-departments/agricultural-sciences/botany-plant-pathology/)). Most faculty members have a lab website, so if the brief description on the directory page sounds interesting, check out their lab page for more information. If you don’t find a webpage on the departmental site, try google-ing.
+- Look through the faculty profiles on departmental webpages in the field(s) you’re interested in. Most faculty members have a lab website, so if the brief description on the directory page sounds interesting, check out their lab page for more information. If you don’t find a webpage on the departmental site, try google-ing.
 
 - As you read through webpages, take note of the people working on the topics that sound the most interesting to you. Note their email addresses, if they have specific instructions for applying to work in the lab, and what general topic(s) they work on that are interesting to you.
 
@@ -71,10 +71,10 @@ A graduate degree (MS, PhD) is not required to land a good job in science, but i
 
 - If you’re really interested in one lab group’s research but the professor isn’t responding to your cold emails, you can also try cold-emailing a graduate student or postdoc in their lab with the same sort of approach. Grad students and postdocs can be more responsive than their faculty advisors and are often the ones spending the most time in training/mentoring undergraduate researchers.
 
-#### Here’s an example of a cold-email 20-year old Hannah Baetge (a current Marine Science and Conservation major at Duke), would write to 40-year old future Nick if he miraculously got a faculty job at Duke:
+#### Here’s an example of a cold-email 20-year old Hannah Baetge (a current Marine Science and Conservation major at Duke), would write to a professor at Duke:
 
 <font size="2"> 
-Dear Dr. Baetge,
+Dear Dr. X,
 
 My name is Hannah and I’m a 2rd year undergraduate student majoring in Marine Science and Conservation here at Duke. I’m writing to ask if you have any openings for undergraduates to join your lab as research assistants. I’ve been very interested in getting involved in marine microbiology research since taking MARSCI 201, The Future of the Ocean. I found your webpage through the NSOE website and really enjoyed learning about your research on coastal phytoplankton and bacteria. Although my interests are extremely broad, I found your research involving the use of lab experiments and satellite observations to study wildfire ash impacts on plankton particularly interesting and I would be especially excited to apply my background in biology to research focused on similar questions. 
 
@@ -89,7 +89,7 @@ Hannah Baetge
 #### Here’s an example of a follow-up to the cold-email Hannah would send if she didn’t hear back for a few weeks. She would reply to the initial email she sent so it was attached to this follow-up email:
 
 <font size="2"> 
-Dear Dr. Baetge,
+Dear Dr. X,
 
 I wanted to follow up to make sure you received my message from a few weeks ago (see below). I have re-attached my resume to this email just in case. Please let me know if you have any openings for undergraduate researchers to join your lab, and if so, if I can provide any further information to improve my chances of being considered.
 
@@ -99,7 +99,7 @@ Hannah
 </font>
 
 
-#### Let’s say Dr. Baetge responds:
+#### Let’s say Dr. X responds:
 
 <font size="2"> 
 Hi Hannah,
@@ -108,14 +108,14 @@ I’m happy to hear you’re interested in my lab group’s research and sorry f
 
 Thanks,
 
-Nick
+Dr. X
 </font>
 
 
 #### Hannah would then respond:
 
 <font size="2"> 
-Dear Dr. Baetge,
+Dear Dr. X,
 
 Thank you very much for your response! I would love to talk more. Over the next few weeks I’m available (list some dates) at [list some times] (be as brief but as flexible as possible here). Please let me know if you can find a convenient time in those windows.
 

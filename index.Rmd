@@ -12,7 +12,7 @@ knitr::include_graphics("images/IMG_1740.JPG")
 ```
 </div> 
   <!-- Name and Titles on the right --> 
-  <div> <h1 style="margin-bottom:5px;">Nick Baetge, Ph.D.</h1> <h2 style="margin-top:5px; margin-bottom:5px; font-weight: normal;"> NSF OCE Postdoctoral Research Fellow </h2> <h3 style="margin-top:5px; margin-bottom:5px; font-weight: normal;"> Oregon State University </h3> </div> </div>
+  <div> <h1 style="margin-bottom:5px;">Nick Baetge, Ph.D.</h1> <h3 style="margin-top:5px; margin-bottom:5px; font-weight: normal;"> Assitant Research Scientist </h3> <h3 style="margin-top:5px; margin-bottom:5px; font-weight: normal;"> ASU Bermuda Institute of Ocean Sciences </h3> </div> </div>
   <p style="font-size: 14px;color: #00a88f; margin-top: 10px;">
   “Being a scientist and sailor is too good to be true.” — Roger Revelle  
   <br>
@@ -22,16 +22,19 @@ knitr::include_graphics("images/IMG_1740.JPG")
 <!-- Updated Text section -->
 <div style="flex: 1 1 400px; min-width: 300px;">
   <p>
-      I am a microbial oceanographer dedicated to exploring the intricate ways marine microbial physiology influences organic carbon flux. My research investigates the effects of organic substrate quality on microbial community responses, with a particular emphasis on climate-driven environmental changes such as wildfire smoke deposition. By combining biological, geochemical, genomic, and bio-optical data from fieldwork, laboratory experiments, and remote sensing, I seek to elucidate the ecological connections between microbial groups and their environments and assess how shifts in these interactions impact ocean biogeochemistry.
+      I am a microbial oceanographer dedicated to exploring the intricate ways marine microbial physiology influences organic carbon flux. My research integrates field observations, experimental incubations, and
+satellite data to investigate how environmental change influences microbial biomass, community composition, activity, and organic matter cycling.
   </p>
 
   <p>
-      During my doctoral research at UC Santa Barbara, I studied the temporal and spatial variability of dissolved organic matter (DOM) and its bioavailability during the annual North Atlantic phytoplankton bloom. An impactful experience was leading a student cruise in the Santa Barbara Channel amidst the Thomas Fire, which deepened my interest in wildfire smoke's effects on ocean ecosystems. As a postdoctoral researcher at Oregon State University, I investigated the physiological responses of marine plankton to wildfire-derived ash as well as diel cycles in phytoplankton optical properties.
+      Currently, I am an Assistant Research Scientist at the ASU Bermuda Institute of Ocean Sciences, leading efforts to assess dissolved organic matter (DOM) processing using both classic remineralization assays and continuous-flow marine bioreactors. I am also working to make high-resolution along-track bio-optical and physiological measurements to contextualize discrete sampling, support satellite ocean color validation, and advance mechanistic understanding of bio–optical relationships. 
+       </p>
+
+   <p>   
+      During my doctoral research at UC Santa Barbara, I studied the temporal and spatial variability of DOM and its bioavailability during the annual North Atlantic phytoplankton bloom. As a postdoctoral researcher and research associate at Oregon State University, I investigated the physiological responses of marine plankton to wildfire-derived ash, diel cycles in phytoplankton optical properties, and helped to advance validation efforts for NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission.
   </p>
 
-  <p>
-      Currently, I am a research associate at Oregon State University helping to advance validation efforts for NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission.
-    </p>
+
   </div>
 
 <!-- Video section -->
