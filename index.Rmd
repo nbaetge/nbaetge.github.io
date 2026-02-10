@@ -12,7 +12,7 @@ knitr::include_graphics("images/IMG_1740.JPG")
 ```
 </div> 
   <!-- Name and Titles on the right --> 
-  <div> <h1 style="margin-bottom:5px;">Nick Baetge, Ph.D.</h1> <h3 style="margin-top:5px; margin-bottom:5px; font-weight: normal;"> Assitant Research Scientist </h3> <h3 style="margin-top:5px; margin-bottom:5px; font-weight: normal;"> ASU Bermuda Institute of Ocean Sciences </h3> </div> </div>
+  <div> <h1 style="margin-bottom:5px;">Nick Baetge, Ph.D.</h1> <h2 style="margin-top:5px; margin-bottom:5px; font-weight: normal;"> Assistant Research Scientist </h2> <h3 style="margin-top:5px; margin-bottom:5px; font-weight: normal;"> ASU Bermuda Institute of Ocean Sciences </h3> </div> </div>
   <p style="font-size: 14px;color: #00a88f; margin-top: 10px;">
   “Being a scientist and sailor is too good to be true.” — Roger Revelle  
   <br>

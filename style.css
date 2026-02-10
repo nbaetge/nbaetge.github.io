@@ -29,10 +29,12 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 0;                 /* critical: no padding to avoid overlap */
   scroll-margin-top: 85px;        /* anchor offset under fixed navbar */
 }
-h1 { color: #8C1D40; font-size: 24px; }
-h2 { color: #FFC627; font-size: 22px; }
-h3 { color: #0280B2; font-size: 18px; }
-h4 { color: #00a88f; font-size: 16px; font-style: italic; }
+h1 { color: #0280B2; font-size: 24px; }
+h2 { color: #00a88f; font-size: 20px; }
+h3 { color: #00a88f; font-size: 20px; }
+h4 { color: #93989c; font-size: 16px; font-style: italic; }
+
+
 
 /* Some themes wrap headings under .section */
 .section h1, .section h2, .section h3, .section h4, .section h5, .section h6 {
@@ -42,8 +44,8 @@ h4 { color: #00a88f; font-size: 16px; font-style: italic; }
 .caption { font-size: 14px; font-family: "Avenir"; color: #00a88f; }
 
 /* ---------- Links ---------- */
-a { color: #00a88f; text-decoration: none; }
-a:hover { color: #50a0b0; text-decoration: underline; }
+a { color: #D68A78; text-decoration: none; }
+a:hover { color: #02A3E3; text-decoration: underline; }
 
 /* ---------- Code / Pre ---------- */
 pre, pre:not([class]) {
@@ -79,7 +81,7 @@ pre, pre:not([class]) {
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .open > a {
-  background-color: #00a88f !important;
+  background-color: #F3AA99 !important;
   color: #fff !important;
 }
 a.navbar-brand:hover { color: #ffffffab !important; background-color: #0280B2; }
@@ -92,7 +94,7 @@ a.navbar-brand:hover { color: #ffffffab !important; background-color: #0280B2; }
   color: #fff; padding: 8px 14px;
 }
 .navbar-inverse .dropdown-menu > li > a:hover {
-  background: #00a88f; color: #fff;
+  background: #F3AA99; color: #fff;
 }
 
 /* ---------- Media / Tables ---------- */
