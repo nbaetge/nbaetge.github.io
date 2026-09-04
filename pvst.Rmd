@@ -22,4 +22,4 @@ We are collecting high-quality measurements from research vessels during satelli
 - Net primary production (how much carbon phytoplankton fix through photosynthesis)
 - Bio-optical properties such as how particles absorb, scatter, or reflect light in the water
 
-By comparing these ship-based observations with satellite data, we’re helping fine-tune and verify the algorithms behind PACE’s ocean products. This work increases confidence in using remote sensing to monitor the health of our oceans.
+By comparing these ship-based observations with satellite data, we’re helping fine-tune and verify the algorithms behind PACE’s ocean products. This work increases confidence in using remote sensing to monitor the health of our oceans. Read more about our PVST work off the coast of Urugauy from Dr. Graff's NASA [Notes from the Field](https://science.nasa.gov/blogs/notes-from-the-field/2026/04/27/off-uruguay-pace-partners-connect-data-from-satellite-and-sea/). 

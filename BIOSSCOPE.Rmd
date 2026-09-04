@@ -19,4 +19,7 @@ knitr::include_graphics("images/IMG_2615.jpeg")
 Within BIOS-SCOPE, my research focuses on quantifying how dissolved organic matter (DOM) is processed by marine microbes using a combination of classic remineralization assays and continuous-flow marine bioreactors. I also lead efforts to collect high-resolution underway bio-optical and physiological measurements, providing context for discrete sampling, supporting satellite ocean color validation, and advancing mechanistic understanding of bio-optical relationships in oligotrophic systems.
 
 
+## Outreach and Media
 
+- [ASU BIOS Radio Spot on Ocean 89 | World Ocean Day](https://www.youtube.com/watch?v=bVcBA423noM)
+- [HSBC ASU BIOS Presentation](https://bernews.com/2026/06/photos-hsbc-hosts-asu-bios-presentation/)
