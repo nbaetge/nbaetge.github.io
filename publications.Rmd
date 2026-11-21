@@ -78,7 +78,7 @@ Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Law
 Saliba, G., Chen, C. L., Lewis, S., Russell, L. M., Rivellini, L. H., Lee, A. K., Quinn, P.K., Bates, T.S., Haëntjens, N., Boss, E.S., Karp-Boss, L., **Baetge, N.**, Carlson, C., Behrenfeld, M. (2019) [Factors driving the seasonal and hourly variability of sea-spray aerosol number in the North Atlantic](https://doi.org/10.1073/pnas.1907574116). *Proceedings of the National Academy of Sciences*. 116(41), 20309-20314.
 \
 \
-Behrenfeld, M. J., Moore, R. H., Hostetler, C. A., Graff, J., Gaube, P., Russell, L. M., Chen, G., Doney, S.C., Giovannoni, S., Liu, H.,  Proctor, C., Bolaños, **Baetge, N.**, Davie-Martin, C., Westberry, T.K., Bates, T.S., Bell, T.G., Bidle, K.D.,, Boss, E.S., Brooks, S.D., Cairns, B., Carlson, C., Halsey, K., Harvey, E.L., Hu, Chuanmin, Karp-Boss, L., Kleb, M., Menden-Deuer, S., Morison, F., Quinn, P.K., Scarino, A.J., Anderson, B., Chowdhary, J., Crosbie, E., Ferrare, R., Hair, J.W., Hu., Y., Janz, S., Redemann, J., Saltzman, E., Shook, M., Siegel, D.A., Wisthaler, A., Marting, M.Y., Ziemba, L. (2019) [The North Atlantic aerosol and marine ecosystem study (NAAMES): science motive and mission overview](https://doi.org/10.3389/fmars.2019.00122). *Frontiers in Marine Science.* 6, 122.
+Behrenfeld, M. J., Moore, R. H., Hostetler, C. A., Graff, J., Gaube, P., Russell, L. M., Chen, G., Doney, S.C., Giovannoni, S., Liu, H.,  Proctor, C., Bolaños, **Baetge, N.**, et al. (2019) [The North Atlantic aerosol and marine ecosystem study (NAAMES): science motive and mission overview](https://doi.org/10.3389/fmars.2019.00122). *Frontiers in Marine Science.* 6, 122.
 
 
 </div> </div><!--  IMAGE --> <div style="text-align: center; margin-top: 30px;"> 
