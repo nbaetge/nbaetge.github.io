@@ -11,7 +11,7 @@ The guide was originally developed by my friend and colleague [Dr. Dylan Catlett
 
 There isn't one correct path into research, and the advice here is just a starting point. I encourage you to talk with professors, teaching assistants, graduate students, and other researchers to learn about different opportunities and experiences.
 
-## Career Paths in Science
+# Career Paths in Science
 
 A background in science can lead to many different careers, including research and teaching at universities and community colleges, government agencies, environmental consulting, policy, law, education, and the private sector.
 
@@ -23,35 +23,35 @@ Unlike undergraduate education, research-focused graduate programs generally pla
 
 Many research-based graduate programs offer financial support through research assistantships, teaching assistantships, or fellowships. These may cover tuition and provide a stipend and health insurance, although funding, compensation, and benefits vary considerably among programs and institutions. It's important to investigate these details before accepting an offer.
 
-## Before You Start
+# Before You Start
 
-*You don't need to be a genius or have a perfect GPA.* Curiosity, persistence, willingness to learn, and enthusiasm are much more important than already knowing everything about a subject.
+**You don't need to be a genius or have a perfect GPA.** Curiosity, persistence, willingness to learn, and enthusiasm are much more important than already knowing everything about a subject.
 
-*You don't need to know exactly what you want to study.* Research can help you discover what interests you. Taking classes, attending departmental seminars, and talking with researchers are great ways to explore different fields.
+**You don't need to know exactly what you want to study.** Research can help you discover what interests you. Taking classes, attending departmental seminars, and talking with researchers are great ways to explore different fields.
 
-*Think about what you'd like to gain from the experience.* Are you interested in laboratory techniques such as microscopy, culturing, genomics, or spectroscopy? Would you prefer computational research, fieldwork, or a combination? Are you hoping to complete a senior thesis or simply explore what research is like?
+**Think about what you'd like to gain from the experience.** Are you interested in laboratory techniques such as microscopy, culturing, genomics, or spectroscopy? Would you prefer computational research, fieldwork, or a combination? Are you hoping to complete a senior thesis or simply explore what research is like?
 
-*Consider the time commitment.* Research becomes more rewarding as you gain experience, and many labs prefer students who can participate for at least a semester or two. Summer research programs may offer shorter, more intensive opportunities. However, getting involved in research is an opportunity to explore your interests—not a commitment to a particular career or laboratory.
+**Consider the time commitment.** Research becomes more rewarding as you gain experience, and many labs prefer students who can participate for at least a semester or two. Summer research programs may offer shorter, more intensive opportunities. However, getting involved in research is an opportunity to explore your interests—not a commitment to a particular career or laboratory.
 
-*Expect to learn the fundamentals.* Undergraduate researchers often begin with tasks such as preparing materials, washing glassware, organizing samples, or entering data. These are important parts of scientific research, but they should also provide opportunities to learn why the work matters, develop new skills, and gradually take on more responsibility.
+**Expect to learn the fundamentals.** Undergraduate researchers often begin with tasks such as preparing materials, washing glassware, organizing samples, or entering data. These are important parts of scientific research, but they should also provide opportunities to learn why the work matters, develop new skills, and gradually take on more responsibility.
 
-*Ask about compensation.* Both paid and volunteer research opportunities exist, as do programs that provide scholarships, stipends, or academic credit. Whenever possible, seek opportunities that recognize and support the time you contribute.
+**Ask about compensation.** Both paid and volunteer research opportunities exist, as do programs that provide scholarships, stipends, or academic credit. Whenever possible, seek opportunities that recognize and support the time you contribute.
 
-*Remember that research takes many forms.* Some labs focus on experiments, others on field observations, computational analyses, or theoretical work. Ask what a typical day or week looks like before committing to a position.
+**Remember that research takes many forms.** Some labs focus on experiments, others on field observations, computational analyses, or theoretical work. Ask what a typical day or week looks like before committing to a position.
 
-*Research can be slow—and that's normal.* Experiments fail, equipment breaks, analyses take longer than expected, and some days involve repetitive tasks. Use quieter periods to read scientific papers, ask questions, explore data, and think about the bigger picture.
+**Research can be slow and that's normal.** Experiments fail, equipment breaks, analyses take longer than expected, and some days involve repetitive tasks. Use quieter periods to read scientific papers, ask questions, explore data, and think about the bigger picture.
 
-## Steps to Get Involved in a Research Lab
+# Steps to Get Involved in a Research Lab
 
-### Prepare a résumé or curriculum vitae (CV)
+## Prepare a résumé or curriculum vitae (CV)
 
-- At this stage, a one-page résumé or CV is usually sufficient. Don't worry if you haven't had a research position before!
+At this stage, a one-page résumé or CV is usually sufficient. Don't worry if you haven't had a research position before!
 
 Consider including your education, relevant coursework, employment or volunteer experience, technical and computer skills, and other activities that demonstrate responsibility, collaboration, or initiative.
 
-You can find useful guidance through[ASU's Career Services](https://career.eoss.asu.edu/channels/resume-application-materials/).
+You can find useful guidance through [ASU's Career Services](https://career.eoss.asu.edu/channels/resume-application-materials/).
 
-###  Identify research groups and opportunities
+##  Identify research groups and opportunities
 
 Explore faculty profiles on departmental websites in subjects that interest you. If a professor's research sounds interesting, visit their laboratory website to learn more about their projects, methods, and research group.
 
@@ -59,7 +59,7 @@ As you explore, keep track of researchers whose work interests you, their contac
 
 You can also look for structured undergraduate research programs, scholarships, and summer research opportunities. Some programs require a faculty mentor, so identifying potential research groups early can be helpful.
 
-### Apply or reach out
+## Apply or reach out
 
 Some research programs and laboratories have formal application processes. Read their instructions carefully and make sure your application addresses what they're looking for.
 
@@ -67,7 +67,7 @@ For other labs, there may not be an advertised position or application process. 
 
 This is often called **cold-emailing**, and it's a common way for students to find their first research opportunity.
 
-### Cold-emailing potential mentors
+## Cold-emailing potential mentors
 
 Contacting someone you've never met can feel intimidating, but researchers are generally accustomed to receiving inquiries from students.
 
@@ -148,21 +148,21 @@ Thanks again, and I look forward to speaking with you!
 Hannah
 </font>
 
-### Preparing for a Meeting or Interview
+## Preparing for a Meeting or Interview
 
 If a researcher invites you to meet, congratulations! This is an opportunity for both of you to learn whether the research group would be a good fit.
 
-*Learn about the research.* Explore the lab website and, if possible, read one or two of the group's scientific papers. You don't need to understand everything. Take notes about what interests you and questions you'd like to ask.
+**Learn about the research.** Explore the lab website and, if possible, read one or two of the group's scientific papers. You don't need to understand everything. Take notes about what interests you and questions you'd like to ask.
 
-*Prepare questions about the experience.* For example, what would your responsibilities be? How much time would you be expected to contribute? Who would supervise and train you? Are paid positions, scholarships, or academic credit available? Could the experience eventually lead to an independent project or senior thesis?
+**Prepare questions about the experience.** For example, what would your responsibilities be? How much time would you be expected to contribute? Who would supervise and train you? Are paid positions, scholarships, or academic credit available? Could the experience eventually lead to an independent project or senior thesis?
 
-*Be professional, but be yourself.* Arrive on time, dress comfortably and appropriately for the setting, and be honest about what you know and what you'd like to learn. Asking questions is a strength, not a weakness.
+**Be professional, but be yourself.** Arrive on time, dress comfortably and appropriately for the setting, and be honest about what you know and what you'd like to learn. Asking questions is a strength, not a weakness.
 
-*Remember that you're evaluating the lab, too.* A good research experience should provide a respectful environment, clear expectations, opportunities to develop skills, and someone you can approach with questions or concerns. It's completely reasonable to ask how undergraduate students are mentored and supported.
+**Remember that you're evaluating the lab, too.** A good research experience should provide a respectful environment, clear expectations, opportunities to develop skills, and someone you can approach with questions or concerns. It's completely reasonable to ask how undergraduate students are mentored and supported.
 
-*Follow up afterward.* Thank the researcher for their time and, if you've agreed on any next steps, follow through.
+**Follow up afterward.** Thank the researcher for their time and, if you've agreed on any next steps, follow through.
 
-### A Final Thought
+# A Final Thought
 
 Your first research experience doesn't have to define the rest of your career. You might discover a field you love, realize that a particular type of research isn't for you, or find new interests you hadn't considered before.
 
