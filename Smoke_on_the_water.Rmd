@@ -5,7 +5,7 @@ output: html_document
 
 <div class="project-container">
 
-  <h1 class="project-title">Smoke on the water: the impacts of wildfire ash deposition on surface ocean biology</h1>
+  <h1 class="project-title">Smoke on the water: how wildfire ash affects marine microbial communities</h1>
   
   <!-- Video section -->
 <div style="flex: 0 0 250px; min-width: 200px;">
@@ -20,22 +20,18 @@ output: html_document
 </div>
 
   <p class="project-text">
-   When wildfire smoke drifts over the ocean, what happens beneath the waves? As climate change increases the frequency and alters the nature of wildfires, it’s increasingly important to understand how ash deposition affects the ocean’s smallest, yet most essential, inhabitants.
-  </p>
+When wildfire smoke drifts over the ocean, what happens beneath the waves? As climate change alters wildfire activity around the world, understanding how ash deposition influences marine ecosystems is becoming increasingly important.
 
-<p class="project-text">
-   In our recent study, we investigated how wildfire ash leachate influences coastal microbial communities. Through field incubations along the California coast, we found that ash-derived dissolved organic matter (DOM) increased bacterioplankton specific growth rates and organic matter remineralization, while leaving bacterial growth efficiency unchanged. This suggests that the added DOM was primarily used to fuel basic cellular functions rather than biomass production. Meanwhile, microzooplankton grazing declined, even as phytoplankton division rates remained stable, hinting at a decoupling of predator-prey dynamics that could promote phytoplankton accumulation.
+In a [recent study](https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.1002/lno.70087), we investigated how wildfire ash leachates affect coastal microbial communities along the California coast. Through shipboard incubation experiments, we found that dissolved organic matter (DOM) released from wildfire ash stimulated bacterial growth rates and organic matter remineralization, but did not increase bacterial growth efficiency. This suggests that although bacteria consumed more organic carbon, a greater proportion was not necessarily converted into new bacterial biomass.
+
+We also observed changes in interactions among plankton. Microzooplankton grazing declined while phytoplankton division rates remained relatively stable, suggesting that ash deposition may alter predator–prey relationships and potentially influence phytoplankton accumulation.
+
+Interestingly, the existing biological conditions of the seawater appeared to be more important than differences in ash chemistry in determining how microbial communities responded. In waters with relatively low phytoplankton biomass, bacteria more readily consumed ash-derived DOM. In higher-biomass waters, the added organic matter was less bioavailable, suggesting that the fate of wildfire-derived carbon may depend strongly on the ecosystem receiving it.
+
+We also observed shifts in phytoplankton size structure, with smaller cells becoming more prevalent in high-biomass waters and larger cells increasing in low-biomass waters. Together, these findings suggest that wildfire ash deposition can influence microbial carbon cycling and marine food-web interactions, but that the direction and magnitude of these responses depend on the biological conditions present before deposition.
   </p>
   
-  <p class="project-text">
-    Importantly, we found that pre-existing phytoplankton biomass had a greater influence on microbial responses than the chemical composition of the ash itself. In low-biomass waters, bacteria more readily consumed the ash-derived DOM. In contrast, in high-biomass waters, the leachate was less bioavailable, potentially allowing more refractory ash-derived carbon to accumulate. These baseline differences also appeared to influence phytoplankton size structure: smaller cells increased in high-biomass settings, while larger cells became more prevalent in low-biomass waters. These shifts may have implications for nutrient cycling, food web structure, and carbon export pathways, depending on how microbial activity and community composition respond in situ.
-  </p>
-  
- <p class="project-text">
-    You can read the full study <a href="https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.1002/lno.70087" target="_blank" rel="noopener noreferrer">here</a>, summarized by the poster below.
-  </p>
-  
-```{r, echo=FALSE, fig.cap="", out.width = '150%', fig.align='center'}
+```{r, echo=FALSE, fig.cap="", out.width = '100%', fig.align='center'}
 knitr::include_graphics("figures/ASLO2025_poster.png")
 ```
 

@@ -3,144 +3,172 @@ title: ""
 output: html_document
 ---
 
-# Undergraduate Research
+# Getting Started in Undergraduate Research
 
-This is an informal guide for undergraduates who are interested in exploring science as a career option by getting involved and contributing in laboratory research. This guide was initially crafted by my friend and colleague [Dr. Dylan Catlett](https://scholar.google.com/citations?user=2OnvnAkAAAAJ&hl=en) and I will continue to adapt it over time. 
+Interested in science but not sure what working in a research lab actually involves—or how to get started? This informal guide is for undergraduate students who want to explore research, gain practical experience, and learn more about possible careers in science.
 
-I encourage you to tap into your network and ask others, including your professors and TAs, for additional information and advice.
+The guide was originally developed by my friend and colleague [Dr. Dylan Catlett](https://scholar.google.com/citations?user=2OnvnAkAAAAJ&hl=en), and I've adapted it based on my own experiences working with undergraduate researchers.
 
-## Career trajectories
+There isn't one correct path into research, and the advice here is just a starting point. I encourage you to talk with professors, teaching assistants, graduate students, and other researchers to learn about different opportunities and experiences.
 
-There are many career paths in (environmental) science, including in academia (i.e, universities, community colleges), government organizations, policy and law, and in the private sector. If you're interested in any of these careers, seeking out research experience as an undergraduate is a great way to expand your network and develop/hone skills that translate across all of these paths, including teamwork, critical thinking, writing and communication, and data generation, analysis and interpretation.
+## Career Paths in Science
 
-A graduate degree (MS, PhD) is not required to land a good job in science, but it can help broaden your options. Most high-quality graduate programs in scientific disciplines require minimal coursework relative to an undergraduate degree and focus on practical research experiences. Research experience is usually required to be admitted to graduate school. Most who pursue graduate degrees in scientific disciplines do not pay out of pocket for tuition and associated fees, and receive a living wage and benefits (health insurance) while in school. These fees are typically covered through research and/or teaching assistant-ships (RA-ships, TA-ships), or fellowships.
+A background in science can lead to many different careers, including research and teaching at universities and community colleges, government agencies, environmental consulting, policy, law, education, and the private sector.
 
-## Before you start
+Undergraduate research is a great way to explore these possibilities while developing skills that are useful across many careers: teamwork, critical thinking, communication, problem-solving, and collecting, analyzing, and interpreting data.
 
-- Remember, being a “prodigy”, “genius”, or having a 4.0 GPA is not a requirement for having a successful career in science or in research. 
+You don't necessarily need a graduate degree (MS or PhD) to build a fulfilling career in science. However, graduate education can open additional opportunities, particularly for careers involving independent research.
 
--	Wherever you decide to start your career in science likely will not be where your career in science ends.
+Unlike undergraduate education, research-focused graduate programs generally place greater emphasis on developing and completing original research projects. Prior research experience can strengthen your application, but students enter graduate school through many different pathways.
 
-- You don't need to know much about research before you get involved! If you’re a 1st or 2nd year, you should have some evidence that you’re interested in science (for example, by taking some classes). If you’re a 3rd or 4th year, you should be close to declaring or declared as a science major and have taken a decent number of science classes. You can attend departmental seminars to learn about the kinds of research being conducted within and outside your university. It's also a great way to meet professors and 'break the ice'! 
+Many research-based graduate programs offer financial support through research assistantships, teaching assistantships, or fellowships. These may cover tuition and provide a stipend and health insurance, although funding, compensation, and benefits vary considerably among programs and institutions. It's important to investigate these details before accepting an offer.
 
-- Have a goal in mind when applying to a lab. What kind of experience do you want to gain? Are you interested in learning particulate techniques, e.g. genomic work, microscopy, culturing, spectroscopy, mass spectrometry? Gain field experience? Would you like to pursue a thesis project? 
+## Before You Start
 
-- In general, everyone (you and your future research mentor) gets more out of undergraduate research when the undergraduate student sticks with it for a while. You should be pretty confident you want to give this a shot for 6 months or more (summer opportunities can be shorter term with a bigger time commitment per week). That said, if you find in the first couple of weeks that research just really isn't for you, don't force yourself through a bad time. Don't be afraid to approach the lab professor and communicate that you want to exit. It's ok! They should understand. After all, you were interested in exploring a research as a career option, not committing to it. 
+*You don't need to be a genius or have a perfect GPA.* Curiosity, persistence, willingness to learn, and enthusiasm are much more important than already knowing everything about a subject.
 
-- Undergraduates often start out in research with menial tasks like washing lab dishes, entering data into spreadsheets, etc. Expect to spend your first 1-3 months in research doing mostly boring stuff (but important! we wouldn't trust a meal that we know was prepared with dirty dishes or spoiled food). You never fully get off the hook from the boring stuff, but you tend to have to do less of it as you get more experience. If you enter the lab with some student research support or as part of an undergraduate research program, it's possible that you may 'fast track' to less menial lab activities. 
+*You don't need to know exactly what you want to study.* Research can help you discover what interests you. Taking classes, attending departmental seminars, and talking with researchers are great ways to explore different fields.
 
-- There are paid and volunteer research opportunities available. The paid positions can be harder to come by, but there are likely programs at your university that you can look into. 
+*Think about what you'd like to gain from the experience.* Are you interested in laboratory techniques such as microscopy, culturing, genomics, or spectroscopy? Would you prefer computational research, fieldwork, or a combination? Are you hoping to complete a senior thesis or simply explore what research is like?
 
-- Every research experience is different. Some dive into lab bench work, others focus on computational work, and some take to field work. There are labs that focus on basic research and others that focus on applied. Asking the people you’re interested in working with about the day-to-day is a good idea before you commit several months to an opportunity. 
+*Consider the time commitment.* Research becomes more rewarding as you gain experience, and many labs prefer students who can participate for at least a semester or two. Summer research programs may offer shorter, more intensive opportunities. However, getting involved in research is an opportunity to explore your interests—not a commitment to a particular career or laboratory.
 
-- Whatever the kind of research, know that it is often slow for a number of reasons including that good work comes from careful work. You may find it boring after some initial excitement from learning lab methods, with more 'down time' as you become more experienced. But if you use the 'down time' to read the literature, make new questions and ask questions (don't be shy about this!), design new experiments, explore the data available to you, and take notes about what you are learning, you may find new excitement as the bigger picture to the lab's science becomes more clear.  
+*Expect to learn the fundamentals.* Undergraduate researchers often begin with tasks such as preparing materials, washing glassware, organizing samples, or entering data. These are important parts of scientific research, but they should also provide opportunities to learn why the work matters, develop new skills, and gradually take on more responsibility.
 
-## Steps to get into a lab
+*Ask about compensation.* Both paid and volunteer research opportunities exist, as do programs that provide scholarships, stipends, or academic credit. Whenever possible, seek opportunities that recognize and support the time you contribute.
 
-### Prepare a curriculum vitae
+*Remember that research takes many forms.* Some labs focus on experiments, others on field observations, computational analyses, or theoretical work. Ask what a typical day or week looks like before committing to a position.
 
-- 1-page. It’s ok at your career stage if you don’t have much on there. Some things to include are your name and contact information, work and/or volunteer experiences from high school and/or college, your major and GPA, relevant coursework (this may change depending on who you’re giving it to), any other qualifications or skills. [ASU's Career Services](https://career.eoss.asu.edu/channels/resume-application-materials/) is a great resource for guidance.
+*Research can be slow—and that's normal.* Experiments fail, equipment breaks, analyses take longer than expected, and some days involve repetitive tasks. Use quieter periods to read scientific papers, ask questions, explore data, and think about the bigger picture.
 
-### Identify programs, scholarships, research programs you're interested in
+## Steps to Get Involved in a Research Lab
 
-- Look through the faculty profiles on departmental webpages in the field(s) you’re interested in. Most faculty members have a lab website, so if the brief description on the directory page sounds interesting, check out their lab page for more information. If you don’t find a webpage on the departmental site, try google-ing.
+### Prepare a résumé or curriculum vitae (CV)
 
-- As you read through webpages, take note of the people working on the topics that sound the most interesting to you. Note their email addresses, if they have specific instructions for applying to work in the lab, and what general topic(s) they work on that are interesting to you.
+- At this stage, a one-page résumé or CV is usually sufficient. Don't worry if you haven't had a research position before!
 
-- Many funding opportunities for undergraduate research require you to have a faculty sponsor, so when you talk with professors about working in their lab, it can help your case to say that you want to try for one of these.
+Consider including your education, relevant coursework, employment or volunteer experience, technical and computer skills, and other activities that demonstrate responsibility, collaboration, or initiative.
 
-### Apply 
+You can find useful guidance through[ASU's Career Services](https://career.eoss.asu.edu/channels/resume-application-materials/).
 
--	Most structured scholarship or other paid research training programs will have formal applications. Make sure to carefully read all the guidelines and follow them. If they include a description of what they are looking for in applicants, try to explicitly address those (it’s ok to use their wording) in your application.
+###  Identify research groups and opportunities
 
--	Some labs will have formal guidelines listed on their webpage for applying to the lab. If so, follow the instructions carefully and make sure you send them everything they ask for. Writing something into your application/email/cover letter that shows you’ve read through their website and maybe one of their scientific papers (whether or not you understood any of it) is helpful.
+Explore faculty profiles on departmental websites in subjects that interest you. If a professor's research sounds interesting, visit their laboratory website to learn more about their projects, methods, and research group.
 
-- If you find a lab you’re interested in and they have no guidelines on how to apply/inquire about opportunities (this is extremely common…), it’s time to start cold-emailing…
+As you explore, keep track of researchers whose work interests you, their contact information, and any instructions for prospective undergraduate assistants.
 
-### Cold-emailing
+You can also look for structured undergraduate research programs, scholarships, and summer research opportunities. Some programs require a faculty mentor, so identifying potential research groups early can be helpful.
 
-- Many undergraduate research positions are initiated after an undergraduate cold-emails a faculty member, grad student, or postdoc to say they want to try research. It can feel scary but you don't have to be scared!
+### Apply or reach out
 
-- In your internet browsing above, you should try to identify 5-10 faculty whose research you’re interested in. Email all of them – there’s an example cold email below to guide you. 
+Some research programs and laboratories have formal application processes. Read their instructions carefully and make sure your application addresses what they're looking for.
 
-- You should expect at least 50% of the faculty you email not to reply the first time. Give them 2-3 weeks and for those who don’t respond, it’s totally normal and acceptable to send a brief follow-up email to remind them (also an example below). 
+For other labs, there may not be an advertised position or application process. In that case, it's perfectly acceptable to contact a professor, graduate student, or postdoctoral researcher directly.
 
-- There’s a good chance ~50% won’t reply to the second email either. Don’t take this personally, it’s just how it is.
+This is often called **cold-emailing**, and it's a common way for students to find their first research opportunity.
 
-- Hopefully 1-3 faculty respond to your email, have an opening, and want to set up a meeting (sometimes they’ll call it an interview) to talk more with you. Respond promptly and professionally and make it as easy as possible for them to schedule a meeting with you (example below). 
+### Cold-emailing potential mentors
 
-- If you’re really interested in one lab group’s research but the professor isn’t responding to your cold emails, you can also try cold-emailing a graduate student or postdoc in their lab with the same sort of approach. Grad students and postdocs can be more responsive than their faculty advisors and are often the ones spending the most time in training/mentoring undergraduate researchers.
+Contacting someone you've never met can feel intimidating, but researchers are generally accustomed to receiving inquiries from students.
 
-#### Here’s an example of a cold-email 20-year old Hannah Baetge (a current Marine Science and Conservation major at Duke), would write to a professor at Duke:
+Start by identifying several research groups that genuinely interest you. Your email doesn't need to be long, but it should introduce you, explain what interests you about their work, and ask whether they have opportunities for undergraduate researchers.
+
+Personalizing your message makes a difference. You don't need to understand every detail of a professor's research, but demonstrating that you've explored their work helps communicate your interest.
+
+Not everyone will respond, and some labs won't have space or funding for additional students. Don't interpret a lack of response as a reflection of your abilities. If you haven't heard back after a week or two, it's reasonable to send one polite follow-up.
+
+Graduate students and postdocs can also be excellent people to contact, particularly because they often work closely with undergraduate researchers.
+
+#### Here's an example of an email that Hannah Baetge, an undergraduate studying Marine Science and Conservation at Duke University, might send to a professor.
 
 <font size="2"> 
 Dear Dr. X,
 
-My name is Hannah and I’m a 2rd year undergraduate student majoring in Marine Science and Conservation here at Duke. I’m writing to ask if you have any openings for undergraduates to join your lab as research assistants. I’ve been very interested in getting involved in marine microbiology research since taking MARSCI 201, The Future of the Ocean. I found your webpage through the NSOE website and really enjoyed learning about your research on coastal phytoplankton and bacteria. Although my interests are extremely broad, I found your research involving the use of lab experiments and satellite observations to study wildfire ash impacts on plankton particularly interesting and I would be especially excited to apply my background in biology to research focused on similar questions. 
+My name is Hannah, and I'm a second-year undergraduate student majoring in Marine Science and Conservation at Duke. I'm writing to ask whether you have any opportunities for undergraduate students to get involved in your research.
 
-If you have any opportunities for undergraduate assistants to help in your research, I would love to be considered. Please find my resume attached and let me know if there is anything else I can do to be considered for an undergraduate researcher position in your lab.
+I've been interested in marine microbiology since taking MARSCI 201, The Future of the Ocean. I came across your lab website and enjoyed learning about your work on coastal phytoplankton and bacteria. I was particularly interested in your research combining laboratory experiments and satellite observations to investigate how wildfire ash affects plankton communities.
 
-Thank you very much for your time and consideration,
+Although I'm still exploring my research interests, I'd be excited to learn more about this work and contribute to your lab.
+
+I've attached my résumé and would be happy to provide any additional information.
+
+Thank you very much for your time and consideration.
+
+Best regards,
 
 Hannah Baetge
 </font>  
 
 
-#### Here’s an example of a follow-up to the cold-email Hannah would send if she didn’t hear back for a few weeks. She would reply to the initial email she sent so it was attached to this follow-up email:
+#### Example: A follow-up email
+
+If you haven't received a response after a week or two, you can reply to your original message with a brief reminder.
 
 <font size="2"> 
 Dear Dr. X,
 
-I wanted to follow up to make sure you received my message from a few weeks ago (see below). I have re-attached my resume to this email just in case. Please let me know if you have any openings for undergraduate researchers to join your lab, and if so, if I can provide any further information to improve my chances of being considered.
+I wanted to follow up on my previous email about potential undergraduate research opportunities in your lab.
 
-Thank you,
+I'm still very interested in your research and would appreciate the opportunity to learn whether you might have space for an undergraduate assistant.
+
+I've reattached my résumé for convenience. Thank you again for your time!
+
+Best regards,
 
 Hannah
 </font>
 
 
-#### Let’s say Dr. X responds:
+#### Example: Responding to an invitation to meet
+
+Suppose the professor responds:
 
 <font size="2"> 
 Hi Hannah,
 
-I’m happy to hear you’re interested in my lab group’s research and sorry for my delayed response. I've just come back with my students from the field! Are you available to talk in more detail in the next few weeks?
+Thanks for your interest in our research! I've just returned from fieldwork with my students, so apologies for the delayed response. Would you be available to meet sometime in the next few weeks?
 
-Thanks,
+Best,
 
 Dr. X
 </font>
 
 
-#### Hannah would then respond:
+#### Hannah could reply:
 
 <font size="2"> 
 Dear Dr. X,
 
-Thank you very much for your response! I would love to talk more. Over the next few weeks I’m available (list some dates) at [list some times] (be as brief but as flexible as possible here). Please let me know if you can find a convenient time in those windows.
+Thank you for your response! I'd love to meet and learn more about your research.
 
-Thanks again and looking forward to talking with you,
+I'm available on Tuesday or Thursday afternoons next week, or Monday morning the following week. Please let me know if any of those times work for you.
+
+Thanks again, and I look forward to speaking with you!
 
 Hannah
 </font>
 
-### The meeting/interview
+### Preparing for a Meeting or Interview
 
--	Study for this. Do your best to read 1 or 2 of your prospective research advisor’s scientific papers (the ones that interest you most!!) and take notes and write down questions. 
+If a researcher invites you to meet, congratulations! This is an opportunity for both of you to learn whether the research group would be a good fit.
 
-- Be prepared with questions. Both about the science and about logistics. How much am I expected to work? What will work look like? Is there opportunity to be compensated for this work (or “are there any scholarships I can apply for to be compensated for this work”)? Is there opportunity to earn course credits? Do a senior thesis? 
+*Learn about the research.* Explore the lab website and, if possible, read one or two of the group's scientific papers. You don't need to understand everything. Take notes about what interests you and questions you'd like to ask.
 
--	Don’t be late. Show up to the meeting 5 minutes early if anything. 
+*Prepare questions about the experience.* For example, what would your responsibilities be? How much time would you be expected to contribute? Who would supervise and train you? Are paid positions, scholarships, or academic credit available? Could the experience eventually lead to an independent project or senior thesis?
 
--	You usually don’t need to dress up, but you probably don’t want to show up in a bathing suit or run over straight from a workout either. 
+*Be professional, but be yourself.* Arrive on time, dress comfortably and appropriately for the setting, and be honest about what you know and what you'd like to learn. Asking questions is a strength, not a weakness.
 
--	Be yourself. Be honest about what you’re interested in (including if you don’t know), and don’t try to act like you know what they’re talking about if you don’t (you will probably get busted; it’s better to just ask questions). Thank them for taking the time at the beginning and end of the meeting and if they give you an opportunity to follow-up, don’t miss it  :)
+*Remember that you're evaluating the lab, too.* A good research experience should provide a respectful environment, clear expectations, opportunities to develop skills, and someone you can approach with questions or concerns. It's completely reasonable to ask how undergraduate students are mentored and supported.
 
+*Follow up afterward.* Thank the researcher for their time and, if you've agreed on any next steps, follow through.
 
+### A Final Thought
 
+Your first research experience doesn't have to define the rest of your career. You might discover a field you love, realize that a particular type of research isn't for you, or find new interests you hadn't considered before.
 
+All of those outcomes are valuable.
 
-
+The important thing is to stay curious, ask questions, and remember that everyone starts somewhere.
 
 
 

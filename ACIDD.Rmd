@@ -5,11 +5,12 @@ output: html_document
 
 # Across the Channel: Investigating Diel Dynamics (ACIDD)
 
-ACIDD was a student-driven research expedition in the Santa Barbara Channel, where I served as co-PI and Chief Scientist. Our goal was to track the daily rhythms of microbial activity in coastal waters, documenting how these tiny organisms change over the course of 24-hour light/dark cycles. We secured ship time through the [UC Ship Funds program](https://scripps.ucsd.edu/ships/uc-ship-funds-program) and over the course of a year, built a collaborative team to and execute a successful mission. 
+Across the Channel: Investigating Diel Dynamics (ACIDD) was a student-driven research expedition in the Santa Barbara Channel, where I served as co-Principal Investigator and Chief Scientist. Our original goal was to investigate the daily rhythms of marine microbial communities, examining how their activity and physiology change over 24-hour light–dark cycles. With ship time awarded through the [UC Ship Funds program](https://scripps.ucsd.edu/ships/uc-ship-funds-program), we spent a year assembling a collaborative team, developing our sampling strategy, and preparing to lead an oceanographic expedition.
 
-Days before our cruise set sail, one of California’s largest recorded wildfires erupted. Rather than cancel, we pivoted quickly, adding a new objective to track the impact of wildfire ash as it fell onto the ocean surface. This rapid adaptation led to one of the earliest field investigations into how coastal marine microbes respond to wildfire-derived aerosols.
-\
-\
+Just days before our cruise, the Thomas Fire erupted in Southern California, eventually becoming one of the largest wildfires in California's recorded history at the time. Rather than abandon our original objectives, we adapted our sampling plans to investigate how wildfire ash deposition might affect coastal marine ecosystems. This unexpected opportunity allowed us to collect observations and conduct experiments during an active wildfire event, contributing to early investigations of the effects of wildfire-derived aerosols on marine microbial communities.
+
+These early observations also helped motivate my later research on how wildfire-derived organic matter influences marine microbial communities, explored in [Smoke on the Water](https://nbaetge.github.io/Smoke_on_the_water.html).
+
 ```{r, echo=FALSE, fig.cap= "Aerosol optical density derived from satellite remote sensing over the course of the cruise. Circles represent stations where samples were collected and experiments conducted. Figure courtesy of Kelsey Bisson.", out.width = '75%', fig.align='center'}
 knitr::include_graphics("figures/acidd_smoke.png")
 ```
@@ -17,12 +18,24 @@ knitr::include_graphics("figures/acidd_smoke.png")
 
 ## Outreach and Media
 
-The ACIDD project was also a platform for [STEAM (science + art) outreach](https://tos.org/oceanography/article/california-wildfire-burns-boundaries-between-science-and-art). Through the vision of [Dr. Kelsey Bisson](https://science.nasa.gov/people/kelsey-bisson/), we partnered with artists and musicians through a Keck Futures Initiative grant to make marine science more accessible and emotionally resonant. The result was a suite of creative works—including illustrations, music, and a short film that was featured at the Environmental Film Festival in Washington, D.C.
+ACIDD also became an opportunity to explore how science and art can work together to communicate ocean research. Through the vision of [Dr. Kelsey Bisson](https://science.nasa.gov/people/kelsey-bisson/) and support from a Keck Futures Initiative grant, we collaborated with artists and musicians to translate our scientific experiences into creative works.
 
-Explore the [Migrations Magazine](https://issuu.com/migrationsmag/docs/finalmigrationszinepages) that showcases our science-art collaboration.
+The resulting [science–art collaboration](https://tos.org/oceanography/article/california-wildfire-burns-boundaries-between-science-and-art)  included illustrations, music, and a short film featured at the Environmental Film Festival in Washington, D.C. These projects offered new ways to share the experience of oceanographic fieldwork and engage audiences with the connections between wildfires, marine ecosystems, and environmental change.
 
-Watch our short film below:
-<center><iframe src="https://player.vimeo.com/video/281882446" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+Explore [Migrations Magazine](https://issuu.com/migrationsmag/docs/finalmigrationszinepages), which showcases our science–art collaboration.
+
+<div style="text-align: center; margin: 25px 0;">
+  <iframe
+    src="https://player.vimeo.com/video/281882446"
+    width="640"
+    height="360"
+    style="max-width: 100%; aspect-ratio: 16 / 9;"
+    title="ACIDD science and art collaboration"
+    frameborder="0"
+    allow="autoplay; fullscreen"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 ### Press

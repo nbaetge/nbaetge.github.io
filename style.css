@@ -110,3 +110,100 @@ th, td { border: 1px solid #ddd; padding: 0.5rem; }
   .bio-video-container { display: flex; flex-direction: column; }
   .bio-video { width: 100%; max-height: none; }
 }
+
+
+/* ---------- Accessible color palette ---------- */
+:root {
+  --ocean-blue: #006D99;
+  --ocean-blue-dark: #00506F;
+  --seafoam-teal: #087D70;
+  --warm-coral: #A64F3B;
+  --slate-gray: #626A70;
+}
+
+/* Headings and captions */
+.title, h2, h3, .caption {
+  color: var(--seafoam-teal);
+}
+
+h1 {
+  color: var(--ocean-blue);
+}
+
+h4 {
+  color: var(--slate-gray);
+}
+
+/* Links */
+a {
+  color: var(--warm-coral);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  color: var(--ocean-blue);
+  text-decoration: underline;
+}
+
+a:focus-visible {
+  outline: 3px solid var(--ocean-blue);
+  outline-offset: 3px;
+}
+
+/* Navbar */
+.navbar-inverse,
+.navbar-inverse .dropdown-menu {
+  background-color: var(--ocean-blue);
+}
+
+.navbar-inverse .navbar-nav > li > a,
+.navbar-inverse .dropdown-menu > li > a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .dropdown-menu > li > a:hover,
+.navbar-inverse .dropdown-menu > li > a:focus {
+  background-color: var(--ocean-blue-dark) !important;
+  color: #fff !important;
+}
+
+/* Visible keyboard focus */
+.navbar-inverse a:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: -3px;
+}
+
+/* Respect reduced-motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* ---------- Navbar logo alignment ---------- */
+
+.navbar-inverse .navbar-header {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-inverse .navbar-brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 52px;
+  padding: 0 15px;
+  margin: 0;
+}
+
+.navbar-inverse .navbar-brand img {
+  display: block;
+  height: 48px;
+  width: auto;
+  max-height: 48px;

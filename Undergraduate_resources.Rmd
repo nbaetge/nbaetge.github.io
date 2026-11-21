@@ -3,40 +3,51 @@ title: ""
 output: html_document
 ---
 
-[Google sheet of funding opportunities - last update 10-2024](https://docs.google.com/spreadsheets/d/1BaC0sX7I8_mMcXxIThEM2kZgSUqi7-l_BHZe_CUvuhw/edit?gid=194681346#gid=194681346)
+# Undergraduate Research Opportunities and Funding
 
-# ASU-BIOS undergraduate support and opportunities
+Getting involved in research can be a great way to explore scientific interests, develop new skills, and meet people working in fields that interest you. Opportunities range from summer internships and research experiences to scholarships, training programs, and professional networks.
 
-- [Research Experiences for Undergraduates (REU) at BIOS](https://bios.asu.edu/education/reu)
+Below are some resources I've collected for students interested in oceanography, marine biology, environmental science, and related fields. This isn't an exhaustive list, and program availability, eligibility, and application deadlines can change, so be sure to check the official websites for the latest information.
 
-- [BIOS Internships](https://bios.asu.edu/education/internships-university-students)
+If you're just beginning to explore research, you might also find my [guide to getting started in undergraduate research](https://nbaetge.github.io/Undergrad_research.html) helpful.
 
-- [Summer courses at Bermuda Institute of Ocean Sciences](https://www.us-ocb.org/science-support/student-opportunities/)
+# Research Opportunities at ASU BIOS
 
-# External undergraduate support and opportunities
+The [ASU Bermuda Institute of Ocean Sciences (BIOS)](https://bios.asu.edu/) offers several opportunities for students to gain hands-on experience in ocean and environmental research.
 
-- [NSF Education & Training Application (ETAP) is a secure online platform that connects applicants to NSF-funded opportunities](https://etap.nsf.gov/search)
+- [NSF Research Experiences for Undergraduates (REU)](https://bios.asu.edu/education/reu) at BIOS — An intensive summer research program in Bermuda, with students working alongside BIOS scientists on independent projects. Applicants must meet NSF eligibility requirements.
 
-- [NSF Ocean Sciences Research Experiences for Undergraduates (REU)](https://hmsc.oregonstate.edu/research-experiences-undergraduates)
+- [BIOS Research Internships]((https://bios.asu.edu/education/internships-university-students)) — Opportunities for university students to participate in research at BIOS.
 
-- [NASA undergraduate student funding opportunities](https://science.nasa.gov/learn/learner-opportunities/#undergrad)
+- [Bermuda Program](https://bios.asu.edu/education/bermuda-program) — Paid summer research internships for Bermudian students and Bermuda permanent residents.
 
-- [Ford Foundation Predoctoral Fellowship](https://www.nationalacademies.org/our-work/ford-foundation-fellowships)
+- [BIOS Summer Courses](https://bios.asu.edu/education/summer-courses) — Field- and laboratory-based courses in marine and environmental science. Check the BIOS education pages for current offerings.
 
-- [NOAA undergraduate funding opportunities](http://www.noaa.gov/opportunities/student-opportunities) 
+# Finding Undergraduate Research Experiences
 
-- [NOAA Ernest F. Hollings and EPP Undergraduate Scholarship Programs](https://oedwebdbapps.iso.noaa.gov/uspa/)
+- [NSF Education & Training Application (ETAP)](https://etap.nsf.gov/search) — Search for NSF-supported research and training opportunities across scientific disciplines.
 
-- [The William M. Lapenta NOAA Student Internship Program](https://vlab.noaa.gov/web/lapenta-internship-program)
+- [NSF Ocean Sciences Research Experiences for Undergraduates (REU)](https://hmsc.oregonstate.edu/research-experiences-undergraduates) — Information about summer research programs and how to find participating research sites.
 
-- [AMS Women in Science Scholarship](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/women-in-science-scholarship/)
+- [NASA student opportunities](https://science.nasa.gov/learn/learner-opportunities/#undergrad) — Undergraduate research, internships, and other opportunities related to NASA science.
 
-- [AMS Scholarship for Underserved Communities](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/ams-scholarship-for-underserved-communities-formerly-minority-scholarship/)
+- [Monterey Bay Aquarium Research Institute (MBARI) Summer Internships](https://www.mbari.org/about/careers/internships/how-to-apply/) — Research and engineering internships involving ocean science and technology.
 
-- [MBARI Summer Internships](https://www.mbari.org/about/careers/internships/how-to-apply/)
+- [William M. Lapenta NOAA Student Internship Program](https://vlab.noaa.gov/web/lapenta-internship-program) — Research experiences in NOAA-related science and technical fields.
 
-- [Scholarships in marine science for visiting undergraduate students at Duke](https://nicholas.duke.edu/marinelab/academics/undergraduate/scholarships-financial-aid)
 
-- [ASLO Multicultural Program](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/)
+# Scholarships and Financial Support
 
-- [UCSB Promise Fellowship Program](https://www.graddiv.ucsb.edu/promise-fellowship-program)
+- [NOAA Student Opportunities](http://www.noaa.gov/opportunities/student-opportunities) — Scholarships, internships, and student programs across NOAA.
+
+- [NOAA Ernest F. Hollings and EPP Undergraduate Scholarship Programs](https://oedwebdbapps.iso.noaa.gov/uspa/) — Scholarship programs supporting eligible undergraduate students interested in NOAA-related fields.
+
+- [American Meteorological Society Women in Science Scholarship](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/women-in-science-scholarship/) — Scholarship information for students pursuing atmospheric and related sciences.
+
+- [AMS Scholarship for Underserved Communities](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/ams-scholarship-for-underserved-communities-formerly-minority-scholarship/) — Information about financial support for eligible students studying atmospheric, oceanic, or hydrologic sciences.
+
+- [Duke University Marine Laboratory Scholarships and Financial Aid](https://nicholas.duke.edu/marinelab/academics/undergraduate/scholarships-financial-aid) — Funding information for eligible students interested in marine laboratory courses and experiences.
+
+# Professional Development and Scientific Communities
+
+- [Association for the Sciences of Limnology and Oceanography (ASLO)  Multicultural Program](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/) — Opportunities for eligible students to participate in scientific meetings, build professional networks, and engage with the aquatic sciences community.

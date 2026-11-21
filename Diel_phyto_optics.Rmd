@@ -5,20 +5,15 @@ output: html_document
 
 # Diel phytoplankton bio-optical properties
 
-```{r, echo=FALSE, fig.cap= "Remote sensing reflectance (rrs) represents light detected by ocean color satellites, including the NASA Plankton, Cloud, Aerosol, and ocean Ecosystem (PACE) mission. Because rrs is impacted by the absorption and scattering of light by phytoplankton, it can be sensitive to variability in phytoplankton bio-optical properties that occur across species and over the day night cycle.", out.width = '90%', fig.align='center'}
+```{r, echo=FALSE, fig.cap= "Remote sensing reflectance (Rrs) describes the water-leaving radiance relative to the downwelling irradiance and is a fundamental quantity measured by ocean color satellites, including NASA's PACE mission. Changes in phytoplankton light absorption and scattering can influence this signal, including variability associated with species composition and daily physiological cycles.", out.width = '90%', fig.align='center'}
 knitr::include_graphics("figures/pace_rrs.png")
 ```
 
-How do marine phytoplankton change from day to night, and why does it matter for satellite ocean color observations? Satellites rely on daylight snapshots of ocean color to estimate phytoplankton productivity and carbon cycling, but these organisms are not static over a 24-hour period.
+How do marine phytoplankton change from day to night, and why does it matter for satellite ocean color observations? Satellites use measurements of ocean color to estimate phytoplankton biomass and productivity, but these organisms are constantly changing over a 24-hour period. Daily cycles in cell growth, division, and physiology can alter how phytoplankton absorb and scatter light, potentially influencing the signals observed from space.
 
-In our recent NASA-funded study, tracked diel (day–night) changes in the bio-optical properties of three ecologically important phytoplankton species under controlled laboratory conditions. We found that their optical signals varied by as much as 3-fold over a single day. These shifts were linked to changes in cell morphology, composition, and photophysiology, and importantly, the timing and magnitude of these changes differed by species. This work marks the first culture-based characterization of full diel cycles in particulate backscattering, offering a new lens for refining ocean color algorithms
+In a [NASA-funded laboratory study](https://doi.org/10.1002/lno.12493), we investigated diel (day–night) changes in the bio-optical properties of three ecologically important phytoplankton species. We found that some optical properties varied by as much as threefold over a single day, reflecting changes in cell morphology, composition, and photophysiology. Importantly, the timing and magnitude of these changes differed among species. This work provided the first culture-based characterization of full diel cycles in particulate backscattering, highlighting the importance of phytoplankton physiology and community composition when interpreting ocean color observations.
 
-Our findings show that both time of day and community composition significantly influence the optical signals retrieved by satellites. These factors must be accounted for to improve estimates of ocean productivity, ecosystem health, and climate feedbacks.
-
-<p class="project-text">
-    You can read the full study <a href="https://doi.org/10.1002/lno.12493" target="_blank" rel="noopener noreferrer">here</a>.
-  </p>
-
+Building on this work, we are interested in understanding how diel variability manifests in natural plankton communities, where changes in physiology, community composition, and ecological processes can occur simultaneously. Through our [PACE Validation Science Team research](https://nbaetge.github.io/pvst.html), we combine high-frequency bio-optical observations with discrete biological and biogeochemical measurements to better distinguish the processes driving variability in optical signals and evaluate their implications for satellite-derived estimates of ocean properties.
 
  <!-- Video section -->
 <div style="flex: 0 0 250px; min-width: 200px;">

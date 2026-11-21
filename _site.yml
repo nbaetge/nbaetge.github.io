@@ -1,10 +1,10 @@
 name: Nicholas Baetge
 navbar:
   type: inverse
-  title: "Dr. Nick Baetge"
+  title: '<img src="images/Baetge_lab_logo_no_text.png" alt="Baetge Lab" style="height: 42px; width: auto;">'
   href: index.html
   left:
-    - text: My Research
+    - text: Research
       href: My_Research.html
       icon: fa-home
     - text: Projects
@@ -31,16 +31,16 @@ navbar:
       icon: fa-book
     - text: Student Resources
       menu:
-      - text: Breaking into undergraduate research
+      - text: Getting Started in Research
         href: Undergrad_research.html
-      - text: Resources for current undergraduate students 
+      - text: Undergraduate Opportunities
         href: Undergraduate_resources.html
-      - text: Resources for prospective and current graduate students 
+      - text: Graduate Student Resources
         href: Graduate_resources.html  
-      - text: Funding for international students
+      - text: International Student Funding
         href: International_resources.html  
       icon: fa-folder
-    - text: Coding and Book Recommendations 
+    - text: Coding & Books
       href: Coding_resources.html
       icon: fa-code  
     - text: AJEDI Resources
@@ -51,8 +51,7 @@ navbar:
       icon: fa-file
   right:
     - icon: fa-envelope fa-lg
-      text: email
-      href: mailto:baetgen@oregonstate.edu
+      href: mailto:nicholas.baetge@bios.asu.edu
 output_dir: "."
 output:
   html_document:

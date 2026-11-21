@@ -3,48 +3,72 @@ title: ""
 output: html_document
 ---
 
-# Coding resources
+# Coding Resources & Recommended Books
 
-Here is a list of resources that I found useful for learning a programming language or specific applications in that language.
+I've collected some resources that I've found helpful for learning programming, analyzing scientific data, and developing reproducible research workflows. Most are freely available online and range from introductory tutorials to more specialized applications in oceanography, microbial ecology, and environmental science.
 
-## R
+I've also included a selection of books that I've found practical, fascinating, thought-provoking, or simply enjoyable.
 
-[Beckerman et al: Getting Started with R: An Introduction for Biologists (2nd edition)](https://www.amazon.com/Getting-Started-R-Introduction-Biologists/dp/0198787847)
+## Programming and Data Analysis
 
-[Wickham et al: R for Data Science](https://www.tidyverse.org/learn/)
+### R
 
-[Lee: Happy Belly Bioinformatics](https://astrobiomike.github.io)
+R is a great language for statistical analysis, data visualization, and working with environmental datasets. It's the language I use most frequently for organizing, analyzing, and visualizing research data.
 
-[Any material by Dr. Allison Horst](https://allisonhorst.github.io)
+- [Getting Started with R: An Introduction for Biologists ](https://www.amazon.com/Getting-Started-R-Introduction-Biologists/dp/0198787847)— Beckerman et al. An approachable introduction to R, particularly for students with a background in biology.
 
-[Intro to R for use in Marine Microbiology](https://drive.google.com/drive/u/2/folders/14lipZSQuCMKqCCCrjQbpIYEtPhch91L5): These are videos I created for a lab course at UCSB (EEMB 144L) for remote learning in 2020.
+- [R for Data Science](https://r4ds.hadley.nz/) — Wickham et al. An excellent free online book covering data import, transformation, visualization, and reproducible workflows using the tidyverse.
 
-## Python
+- [Happy Belly Bioinformatics](https://astrobiomike.github.io/)— Michael Lee. Tutorials and resources for bioinformatics, microbial ecology, and working with biological data.
 
-[Anbernathy: An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
+- [Fundamentals of Data Visualization ](https://clauswilke.com/dataviz/)— Claus Wilke. A freely available book on designing clear, effective, and informative scientific figures.
 
-[PACE Hackweek](https://pacehackweek.github.io/pace-2024/intro.html): Resources for exploring remote sensing observations by the NASA PACE satellite using python
+### Python
 
-## MATLAB
+- [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)— Ryan Abernathey. An introduction to Python tools and workflows for analyzing Earth and environmental science data.
 
-[UMAINE MISC Lab Ocean Optics](https://github.com/OceanOptics): Code for processing or analyzing bio-optical data
+- [NASA Ocean Data Science Notebooks](https://nasa.github.io/oceandata-notebooks/) — A collection of practical, interactive Python tutorials for accessing, processing, visualizing, and analyzing NASA ocean science data, including PACE observations. Developed from the PACE Hackweek training resources, these notebooks provide a useful starting point for working with satellite ocean color data.
 
-# Book recommendations 
+- [Project Pythia](https://projectpythia.org/) — Open educational resources and tutorials for scientific computing in the geosciences, including Python, Jupyter, and analysis of Earth science datasets.
 
-Here is a list of books relevant to science and exploration, that I found practical, fascinating, and/or uplifting.
+- [The Pangeo Community](https://pangeo.io/) — Resources and tools for working with large-scale geoscience datasets using open-source Python software.
 
-[Letters to a Young Scientist by E.O Wilson](https://bookshop.org/p/books/letters-to-a-young-scientist-honorary-curator-in-entomology-and-university-research-professor-emeritus-edward-o-wilson/0005e49f3ada7123?ean=9780871403858&next=t)
 
-[I Contain Multitudes by Ed Yong](https://bookshop.org/p/books/i-contain-multitudes-the-microbes-within-us-and-a-grander-view-of-life-ed-yong/12796f7554812fca?ean=9780062368607&next=t)
+### MATLAB
 
-[Rancher, Farmer, Fisherman by Miriam Horn](https://bookshop.org/p/books/rancher-farmer-fisherman-conservation-heroes-of-the-american-heartland-miriam-horn/f83a5866cefe7c66?ean=9780393354874&next=t)
+- [University of Maine MISC Lab / Ocean Optics GitHub](https://github.com/OceanOptics) — Open-source tools for processing and analyzing marine bio-optical measurements, including data collected with oceanographic optical instruments.
 
-[The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook by Hampton Sides](https://bookshop.org/p/books/rancher-farmer-fisherman-conservation-heroes-of-the-american-heartland-miriam-horn/f83a5866cefe7c66?ean=9780393354874&next=t)
+## Reproducible Research and Scientific Workflows
 
-[The Big Burn: Teddy Roosevelt and the Fire that Saved America by Timothy Egan](https://bookshop.org/p/books/the-big-burn-teddy-roosevelt-and-the-fire-that-saved-america/1509779?ean=9780547394602&next=t)
+Learning to write code is only part of scientific data analysis. Organizing projects, documenting methods, tracking changes, and making analyses reproducible are equally important.
 
-[Your Future on the Faculty: How to Survive and Thrive in Academia
-by Joshua Schimel](https://bookshop.org/p/books/your-future-on-the-faculty-how-to-survive-and-thrive-in-academia-professor-of-ecology-evolution-and-marine-biology-joshua-schimel/253995197976f7bf?ean=9780197608838&next=t)
+- [Quarto](https://quarto.org/) — An open-source publishing system for combining code, text, figures, and results into reproducible reports, presentations, and websites.
 
-[Writing Science How to Write Papers That Get Cited and Proposals That Get Funded by Joshua Schimel](https://bookshop.org/p/books/writing-science-how-to-write-papers-that-get-cited-and-proposals-that-get-funded-joshua-schimel/8bfd565d9d585a16?ean=9798874728656&next=t)
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/) — Jenny Bryan. A practical introduction to using Git and GitHub with R and RStudio.
+
+- [The Turing Way](https://book.the-turing-way.org/) — A community-developed handbook covering reproducible research, project design, collaboration, research ethics, and open science.
+
+- [Software Carpentry](https://software-carpentry.org/lessons/) — Introductory lessons in programming, version control, and computational skills for researchers.
+
+# Recommended Books
+
+These are some books that I've enjoyed or found particularly useful. They cover scientific discovery, ecology, exploration, conservation, communication, and life in academia.
+
+## Science, Nature, and Exploration
+
+- [Letters to a Young Scientist ](https://bookshop.org/search?keywords=Letters+to+a+Young+Scientist+Edward+O+Wilson)— E. O. Wilson. Reflections on curiosity, discovery, and developing a life in science.
+
+- [I Contain Multitudes](https://bookshop.org/search?keywords=I+Contain+Multitudes+Ed+Yong) — Ed Yong. A fascinating exploration of the relationships between microorganisms and the organisms they inhabit.
+
+- [Rancher, Farmer, Fisherman](https://bookshop.org/search?keywords=Rancher+Farmer+Fisherman+Miriam+Horn) — Miriam Horn. Stories of conservation and environmental stewardship across the American landscape.
+
+- [The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook](https://bookshop.org/search?keywords=The+Wide+Wide+Sea+Hampton+Sides) — Hampton Sides. A historical account of exploration, empire, and the final voyage of Captain James Cook.
+
+- [The Big Burn: Teddy Roosevelt and the Fire That Saved America](https://bookshop.org/search?keywords=The+Big+Burn+Timothy+Egan) — Timothy Egan. A history of the 1910 wildfires and their influence on American conservation and public lands.
+
+## Scientific Writing and Academic Life
+
+- [Your Future on the Faculty: How to Survive and Thrive in Academia](https://bookshop.org/search?keywords=Your+Future+on+the+Faculty+Joshua+Schimel) — Joshua Schimel. Practical advice on navigating an academic career, including teaching, research, mentoring, and professional development.
+
+- [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://bookshop.org/search?keywords=Writing+Science+Joshua+Schimel) — Joshua Schimel. An excellent resource on scientific storytelling, clear writing, and communicating the significance of research.
 

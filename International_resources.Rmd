@@ -3,43 +3,29 @@ title: ""
 output: html_document
 ---
 
-# Funding for international students
+# Funding Opportunities for International Students
 
-- [American Association of University Women International Fellowships for graduate and postdoctoral study](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
+Finding funding for graduate education and research can be particularly challenging for international students, especially when many fellowships and scholarships have citizenship or residency restrictions.
 
-- [Fulbright Scholar Program for non-U.S. scholars](https://fulbrightscholars.org/non-us-scholars)
+I've collected some opportunities that may be useful for students and early-career researchers pursuing graduate education, research, or professional development outside their home countries.
 
-- [Link Foundation Ocean Engineering and Instrumentation Fellowship Program (one year towards Ph.D. degree)](https://linkoe.org)
+Some programs are intended specifically for international students, while others support applicants from particular countries or research conducted at designated institutions. Eligibility may depend on citizenship, residency, degree level, host institution, and field of study.
 
-- [North Pacific Research Board (NPRB) Graduate Student Research Awards for work that addresses management issues in North Pacific](https://nprb.org/graduate-research-awards/#section-2)
+Please check each program's official website for current eligibility requirements, application deadlines, and availability. This list is a starting point rather than a comprehensive or continuously updated funding database.
 
-- [Schlanger Ocean Drilling Fellowship for research using data/samples from the International Ocean Discovery Program (one year towards Ph.D.)](https://usoceandiscovery.org/fellowships/)
+## International Fellowships and Research Opportunities
 
-- [Paul & Daisy Soros Fellowships for New Americans who are (1) is a resident alien; i.e., holds a Green Card, or, (2) has been naturalized as a U.S. citizen, or (3) is the child of two parents who are both naturalized citizens.](https://www.pdsoros.org)
+These programs may support international graduate students, postdoctoral researchers, or scholars, depending on their specific eligibility requirements.
 
-- [Smithsonian Tropical Research Institute (STRI) for graduate, doctoral, and post-doctoral research exploring Panama's ecosystems while based at STRI](https://stri.si.edu/academic-programs/fellowships)
+- [American Association of University Women (AAUW) International Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/) — Graduate and postgraduate funding opportunities for eligible women who are not U.S. citizens or permanent residents.
 
-- [P.E.O. International Peace Scholarship for women to pursue graduate studies in U.S. or Canada](https://www.peointernational.org/educational-support/international-peace-scholarship-fund/)
+- [Fulbright Opportunities for non-U.S. scholars](https://fulbrightscholars.org/non-us-scholars) — International academic exchange opportunities. Available programs and application procedures vary by country.
 
-## Africa and Asia
+- [North Pacific Research Board (NPRB) Graduate Student Research Awards](https://nprb.org/graduate-research-awards/#section-2) — Research support for eligible graduate students conducting projects relevant to North Pacific marine ecosystems and management.
 
-- [The Aga Khan Foundation's International Scholarship Program for students from select developing countries who have no other means of financing their postgraduate studies](https://the.akdn/en/what-we-do/developing-human-capacity/education/international-scholarships)
+- [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org)  — Graduate fellowships for eligible immigrants and children of immigrants pursuing graduate education in the United States. Applicants should consult the program's current definition of eligibility.
 
-- [The Civil Society Leadership Awards (CSLA) for students pursuing master's work who have potential to become civil society leaders in their home communities](https://www.wcl.american.edu/academics/degrees/llm/how-to-apply/scholarships/civil/)
+- [Smithsonian Tropical Research Institute (STRI) fellowships](https://stri.si.edu/academic-programs/fellowships) — Research opportunities for graduate students, doctoral researchers, and postdoctoral scientists studying tropical ecosystems, with research based at STRI in Panama.
 
-- [Japan-United States Friendship Commission for nominated Japanese students wishing to study in the US (and vice versa)](https://www.jusfc.gov)
+- [P.E.O. International Peace Scholarship for women to pursue graduate studies in U.S. or Canada](https://www.peointernational.org/educational-support/international-peace-scholarship-fund/) — Financial assistance for eligible international women pursuing graduate study in the United States or Canada.
 
-## Caribbean and Latin America
-
-- [COMEXUS Fulbright fellowship for Mexican students to study a postgraduate course in the United States](https://www.comexus.org.mx)
-
-## Europe
-
-- [American-Scandinavian Foundation Fellowships supporting one year for Scandinavians to study at the graduate level in the U.S.](https://www.amscan.org/fellowships-and-grants/)
-
-- [Icelandic-American Thor Thors Grant supporting one year for Icelandic nationals to study at the graduate level in the U.S.](https://www.iceam.is/styrkir/skolastyrkir)
-
-
-## South Pacific
-
-- [American Australian Association Graduate Education Fund for Australian students interested in pursuing graduate level study or post-doctoral research in the U.S. ](https://americanaustralian.org/scholarships/education-fund/)

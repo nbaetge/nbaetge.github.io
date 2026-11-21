@@ -3,33 +3,42 @@ title: ""
 output: html_document
 ---
 
-# My research
+# Research
 
-The ocean teems with marine microbes that drift with the currents. Though invisible to the naked eye, these microbes play an outsized role in shaping food webs and cycling elements across the planet. My research is dedicated to understanding these remarkable organisms and the processes they drive.
-\
-\
-<center>![](movies/or_coast_plankton_jul2023.mp4){ width=75% }</center>
-\
-\
-\
-<center><h4 style="font-size: 14px; color: #6d6e71;"> Plankton from the Oregon Coast in July 2023, shot with the Curiosity Microscope. </h4></center>
-\
+The ocean teems with marine microbes that drift with the currents. Though invisible to the naked eye, these organisms play an outsized role in shaping marine food webs and cycling elements across the planet. Our research seeks to understand how these remarkable organisms interact with their environment and influence the ocean's carbon cycle.
 
-Carbon dioxide (CO₂) from the atmosphere is fixed into organic carbon by phytoplankton in the sunlit surface ocean. This organic carbon fuels marine food webs, but a portion of it is exported to the deep ocean, where it can remain isolated from the atmosphere for centuries to millennia. This vertical export of organic carbon is one of the primary ways the ocean buffers rising atmospheric CO₂ from human activity.
-\
-\
-\
+<div style="text-align: center; margin: 25px 0;">
+  <video controls muted playsinline
+         style="width: 75%; max-width: 700px;
+                border-radius: 8px;">
+    <source src="movies/or_coast_plankton_jul2023.mp4"
+            type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p style="font-size: 14px; color: #6d6e71;
+            margin-top: 10px;">
+    Plankton from the Oregon Coast in July 2023,
+    filmed with the Curiosity Microscope.
+  </p>
+</div>
+
+
+Carbon dioxide (CO₂) from the atmosphere is taken up by phytoplankton and converted into organic carbon in the sunlit surface ocean. This organic matter fuels marine food webs, where it is continually produced, consumed, and transformed by microorganisms. Some is exported to the deep ocean, where it can be stored for centuries to millennia, while some remains dissolved in seawater, forming an enormous reservoir of organic carbon. Understanding what controls the production, transformation, and fate of this organic matter is central to understanding the ocean's role in the global carbon cycle.
+
+
 ```{r, echo=FALSE, fig.cap= "", out.width = '80%', fig.align='center'}
 knitr::include_graphics("figures/biologicalCpump_scene.png")
 ```
-\
-My research explores questions such as:
 
-- How are different oceanic carbon pools shaped by microbial activity?
-- How do microbial–carbon relationships vary across environments and timescales?
-- How will microbial activity shift as the climate changes and marine environments are perturbed?
+Our research explores questions such as:
 
-To investigate these questions, I collaborate with a broad range of ocean scientists, integrating biogeochemical, bio-optical, remote sensing, and experimental data to gain a holistic understanding of ocean microbial dynamics.
+- Organic matter cycling: How do marine microorganisms influence the production, transformation, and fate of organic carbon in the ocean?
+- Microbial ecology and environmental change: How do microbial communities and their interactions with organic matter vary across environmental conditions, spatial scales, and timescales?
+- Connecting processes across scales: How can we integrate experiments and observations to understand microbial processes and their influence on ocean biogeochemistry?
+
+To investigate these questions, we integrate long-term ocean observations, laboratory experiments, and bio-optical and satellite measurements. Our work spans microbial processes occurring over hours to ecosystem changes unfolding over decades, with the goal of connecting the activity of individual organisms and communities to broader patterns of ocean biogeochemistry.
+
+Much of our current research is centered in the Sargasso Sea through collaborations with the Bermuda Atlantic Time-series Study (BATS) and BIOS-SCOPE, where decades of ocean observations provide a unique foundation for investigating ecosystem change. By combining these observations with experiments that test the mechanisms of organic matter transformation and new technologies that expand our ability to observe the ocean, we aim to better understand how microbial processes shape marine ecosystems and carbon cycling.
 
 
 

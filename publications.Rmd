@@ -7,18 +7,17 @@ output: html_document
 
 #### [Google Scholar](https://scholar.google.com/citations?user=Ca8wN7sAAAAJ&hl=en&authuser=1)
 
-### in review
+### in review / revision
 
-Fumenia, A., Loisel, H., Moutin, T., Arrigo, K., Babin, M., **Baetge, N.**, Balch, W., Bates, N., Bjorkman, K., Bochdansky. A., Bonnet, S., Cauvin, A. Chaves, J., Church, M., Crouvoisier, M., del Amo, T., Devred, E., Diaz, J., Djaoudi, K., Drapeau, D., Duhamel, S., Lecuyer, E., Fassbender, A., Goni, A., Grabowski, E., Grégori, G., Grosso, O., Grossteffan, E., Guieu, C., Johannessen, S., Johnson, R., Karl, D., Koester, I., Koch, F., Krock, B., Labourdette, N., Lagadec, V., Landry, M., Leblanck, K., Leynaert, A., Li, Q., Lizon, F., Lomas, M., Mannino, A., Martiny, A., McGillicuddy, M., Mériaux, X., Mills, M., Moisez, E., Nelson, C., Nunige, S., Pujo-Pay M., Pulido, E., Reimers, C., Reynolds, R., Rimmelin-Maury, P., Savoye, N., Sherrell, R., Steinberg, D., Stramski, D., Strutton, P., Stukel, M., Tzortziou, M., Turk-Kubo, K., Yager, P., van Dijken, G., Vantrepotte, V., Waggoner, E. Global in situ dataset of particulate organic carbon, nitrogen and phosphorus in coastal and open waters *Scientific Data*
-\
-\
-Bailess, A. L., **Baetge, N.**, Barnard, A. H., Tufillaro, N., Behrenfeld, M., Bill, B., Kudela, R., Graff, J., Kavanaugh, M. Hyperspectral Remote Sensing for Harmful Algal Bloom Detection: Pseudo-nitzschia in the Northeast Pacific *Remote Sensing of the Environment*
-\
-\
-**Baetge, N.**, Halewood, E., Opalk, K., Wear, E., Carlson, C. Marine plug flow bioreactors provide a high-throughput assay of potential DOC bioavailability. *JGR Biogeosciences*
-\
-\
-Goranov, A.I., Schmitt, N., Agar, J., Harvey, E., **Baetge, N.**, McNair, H., Arrington, E., Stubbins, A., Wagner, S. in prep. Molecular delineation and fertilization of dissolved organic matter of Santa Barbara coastal waters during the Thomas Fire (California, USA). *Marine Chemistry*
+Goranov, A.I., Schmitt, N., Agar, J., Harvey, E., **Baetge, N.**, McNair, H., Arrington, E., Stubbins, A., Wagner, S. Molecular delineation and fertilization of dissolved organic matter of Santa Barbara coastal waters during the Thomas Fire (California, USA). *Marine Chemistry*
+
+### 2026
+
+**Baetge, N.**, Halewood, E., Opalk, K., Wear, E., Carlson, C. [Marine plug flow bioreactors provide a high-throughput assay of potential DOC bioavailability.](https://doi.org/10.1029/2026JG009771) *JGR Biogeosciences*
+
+Bailess, A. L., **Baetge, N.**, Barnard, A. H., Tufillaro, N., Behrenfeld, M., Bill, B., Kudela, R., Graff, J., Kavanaugh, M. [Hyperspectral Remote Sensing for Harmful Algal Bloom Detection: Pseudo-nitzschia in the Northeast Pacific.](https://doi.org/10.1016/j.hal.2026.103195) *Harmful Algae*
+
+Fumenia, A., Loisel, H., Moutin, T., Arrigo, K., Babin, M., **Baetge, N.**, et al. [Global in situ dataset of particulate organic carbon, nitrogen and phosphorus in coastal and open waters](https://doi.org/10.1038/s41597-026-08413-7) *Scientific Data*
 
 ### 2025
 

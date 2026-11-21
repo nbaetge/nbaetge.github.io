@@ -3,31 +3,69 @@ title: ""
 output: html_document
 ---
 
-# AJEDI Resources 
+# Accessibility, Justice, Equity, Diversity, and Inclusion (AJEDI) Resources
 
-The following is a list of media I have found insightful and useful about the state and progress of Accessibility, Justice, Equity, Diversity, and Inclusion (AJEDI) in marine science research and education. Also included are resources that are helpful to promoting practices mindful of AJEDI in the classroom, laboratory, and field. 
+Creating welcoming, accessible, and equitable scientific communities requires ongoing learning, reflection, and action. This includes how we mentor students, collaborate with colleagues, conduct fieldwork, review scientific work, and share research and data.
 
-## Literature
+I've collected some resources that I've found insightful or useful for understanding and promoting Accessibility, Justice, Equity, Diversity, and Inclusion (AJEDI) in marine science research and education.
 
-- [*Oceanography* special issue on Building Diversity, Equity, and Inclusion in the Ocean Sciences](https://tos.org/oceanography/issue/volume-36-issue-4)
+These materials include scientific literature, practical guidance, training resources, and tools that can help us be more thoughtful and inclusive in classrooms, laboratories, research cruises, and professional communities.
 
-- [AGU Journals Special Collection on Diversity, Equity, and Inclusion](https://agupubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2576-604X.DEIAGU)
+This is an evolving collection rather than an exhaustive list.
 
-- [Life and Science at Sea: Advice for your First Scientific Research Cruise from Experienced Oceanographers](https://repository.oceanbestpractices.org/handle/11329/2608)
+## Perspectives on Equity and Inclusion in Ocean Science
 
+- [*Oceanography* special issue on Building Diversity, Equity, and Inclusion in the Ocean Sciences](https://tos.org/oceanography/issue/volume-36-issue-4) — A special issue exploring barriers, experiences, initiatives, and opportunities for building more inclusive ocean science communities.
 
-## Videos
+- [AGU Journals Special Collection on Diversity, Equity, and Inclusion](https://agupubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2576-604X.DEIAGU) — Research and perspectives on equity, inclusion, and representation across the Earth and space sciences.
 
-- [The Leadership Toolbox: Team-building and Navigating Conflict (Polar Science Early Career Community Office)](https://www.youtube.com/watch?v=TeA9iywI7KE)
+## Inclusive Fieldwork and Research Cruises
 
-- [NOAA Sea Grant Bias Awareness Training for Reviewers](https://seagrant.noaa.gov/opportunities/funding/bias-awareness-training/)
+Fieldwork and research cruises present unique challenges for accessibility, safety, inclusion, and professional development. Establishing clear expectations, providing appropriate training, and fostering respectful working environments are important for making these experiences accessible and productive.
 
-- [NSF The Art and Science of Reviewing Proposals](https://new.nsf.gov/od/oia/merit-review-orientation)
+- [Life and Science at Sea: Advice for your First Scientific Research Cruise from Experienced Oceanographers](https://repository.oceanbestpractices.org/handle/11329/2608) — Practical guidance for preparing for and participating in scientific research cruises, including navigating shipboard life and working relationships.
 
-## Slide decks
+- [ADVANCEGeo Partnership](https://serc.carleton.edu/advancegeo/index.html) — Resources and training for addressing harassment, discrimination, and hostile working environments in the geosciences, including field settings.
 
-- [AGU Peer-Review Essentials: How to Write Exceptional and Respectful Reviews](https://www.agu.org/-/media/files/publications/agu-pubs-webinar-how-to-review-aug-2023.pdf): This includes a tone table that has suggestions on ways to frame constructive comments. 
+- [The Fieldwork Initiative](https://fieldworkinitiative.org/) — Resources for preventing and responding to harassment and assault during field-based research, with an emphasis on safer and more inclusive field experiences.
 
-## Hand outs
+## Mentoring, Leadership, and Collaboration
 
-- Be [FAIR](https://www.go-fair.org/wp-content/uploads/2022/01/FAIRPrinciples_overview.pdf) and [CARE](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/6397b363b502ff481fce6baf/1670886246948/CARE%2BPrinciples_One%2BPagers%2BFINAL_Oct_17_2019.pdf) principles for scientific data management and stewardship
+- [The Leadership Toolbox: Team-Building and Navigating Conflict](https://www.youtube.com/watch?v=TeA9iywI7KE) — A training resource from the Polar Science Early Career Community Office focused on communication, collaboration, and navigating conflict in research teams.
+
+## Equitable Peer Review and Scientific Evaluation
+
+Peer review is an important part of scientific research, from evaluating manuscripts and grant proposals to providing feedback on colleagues' work. Thoughtful, constructive, and respectful reviews help strengthen science and support the people conducting it.
+
+- [NOAA Sea Grant Bias Awareness Training for Reviewers](https://seagrant.noaa.gov/opportunities/funding/bias-awareness-training/) — Training materials addressing bias and fairness in scientific proposal review.
+
+- [NSF The Art and Science of Reviewing Proposals](https://new.nsf.gov/od/oia/merit-review-orientation) — Guidance on evaluating research proposals and participating in the NSF merit review process.
+
+- [AGU Peer-Review Essentials: How to Write Exceptional and Respectful Reviews](https://www.agu.org/-/media/files/publications/agu-pubs-webinar-how-to-review-aug-2023.pdf) — Practical recommendations for providing constructive scientific reviews. I particularly appreciate the tone table, which offers examples of how to frame critical comments respectfully and effectively.
+
+## Responsible and Equitable Data Stewardship
+
+Making scientific data accessible and reusable is an important part of open science. Equitable data practices also require attention to how data are collected, governed, shared, and used, particularly when they involve communities whose knowledge or interests may not be adequately represented.
+
+- [FAIR Principles](https://www.go-fair.org/wp-content/uploads/2022/01/FAIRPrinciples_overview.pdf) — Principles for making scientific data Findable, Accessible, Interoperable, and Reusable.
+- [CARE Principles for Indigenous Data Governance](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/6397b363b502ff481fce6baf/1670886246948/CARE%2BPrinciples_One%2BPagers%2BFINAL_Oct_17_2019.pdf) — Principles emphasizing Collective Benefit, Authority to Control, Responsibility, and Ethics in the governance and use of Indigenous data.
+
+FAIR and CARE offer complementary perspectives: FAIR emphasizes the technical and practical reuse of data, while CARE emphasizes the people, rights, and responsibilities associated with data governance.
+
+## Accessibility in Scientific Communication
+
+Making science accessible also means considering how we communicate our research. Figures, presentations, publications, websites, and teaching materials should be designed so that people with different visual, auditory, cognitive, and physical abilities can engage with them.
+
+Small decisions, such as choosing appropriate color palettes, labeling figures clearly, providing alternative text for images, and ensuring sufficient contrast, can make scientific information easier to understand and more accessible to everyone.
+
+-[Scientific Colour Maps](https://zenodo.org/records/24343380) — Fabio Crameri. A collection of perceptually uniform, color-vision-deficiency-friendly palettes designed to reduce visual distortion and improve accessibility in scientific figures. Includes palettes suitable for different types of scientific data and visualization. Version 9.0.0 (2026).
+
+- [The Misuse of Colour in Science Communication](https://doi.org/10.1038/s41467-020-19160-7) — Crameri et al. (2020). A paper discussing how inappropriate color choices can distort scientific interpretation and outlining principles for more accurate and inclusive data visualization.
+
+- [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) — Guidance and practical resources for making websites and digital content accessible, including recommendations for contrast, navigation, text alternatives, and accessible design.
+
+## Scientific Communities and Support Networks
+
+Professional communities can provide mentorship, collaboration, support, and opportunities to connect with researchers who share experiences or interests.
+
+I've included a collection of scientific organizations and support networks on my [Graduate Student Resources](https://nbaetge.github.io/Graduate_resources.html) page, including Black in Marine Science, SACNAS, GeoLatinas, the Society for Women in Marine Science, and others.

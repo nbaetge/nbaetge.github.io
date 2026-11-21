@@ -3,98 +3,110 @@ title: ""
 output: html_document
 ---
 
-# Graduate student applications
+# Graduate Student Resources
 
-An *excellent* [guide to graduate school admissions](https://docs.google.com/document/u/2/d/e/2PACX-1vQcAcPKrThKidO-o4inKguECF81jpes1Cjbrs0Jn5aky5zEKXr8xtGBB9NkL5mV56lQTnKfykKhm1zT/pub) process for the UC Santa Barbara Interdepartmental Graduate Program in Marine Science, but with information applicable to other programs. 
+Graduate school can be an exciting opportunity to pursue scientific questions, develop new skills, and become part of a research community. It can also be difficult to navigate, especially when you're figuring out how to apply, find funding, or identify opportunities for training and professional development.
 
-The [Hidden Curriculum](https://lor.instructure.com/resources/4dbadf21d0a84ce8b826d97c6f857adb?shared) presented by UW Madison on how to be a successful graduate student and the barriers faced when transitioning into graduate school.
+I've collected some resources that may be helpful for prospective and current graduate students, particularly those interested in oceanography, marine biology, microbial ecology, and environmental science.
 
-[Example applications](https://github.com/RILAB/statements) for grad school apps (incl. NSF GRFP), postdoc apps, and faculty apps.
+These lists are not exhaustive, and funding opportunities, eligibility requirements, and application deadlines can change. Always consult the official program websites for the most current information.
+
+## Applying to Graduate School
+
+- [UC Santa Barbara Interdepartmental Graduate Program in Marine Science admissions guide](https://docs.google.com/document/u/2/d/e/2PACX-1vQcAcPKrThKidO-o4inKguECF81jpes1Cjbrs0Jn5aky5zEKXr8xtGBB9NkL5mV56lQTnKfykKhm1zT/pub) — An *excellent* guide to graduate school admissions, with advice applicable well beyond UCSB. 
+
+- The [Hidden Curriculum of Graduate School](https://lor.instructure.com/resources/4dbadf21d0a84ce8b826d97c6f857adb?shared) — A resource shared by the University of Wisconsin–Madison about navigating expectations, challenges, and aspects of graduate education that aren't always explicitly explained.
+
+- [Example application materials](https://github.com/RILAB/statements) — A collection of example statements for graduate school applications, NSF Graduate Research Fellowship applications, postdoctoral positions, and faculty positions.
+
+When exploring graduate programs, I encourage prospective students to consider not only the scientific questions they want to investigate, but also the mentoring environment, funding arrangements, opportunities for professional development, and experiences of current students.
+
+## Graduate Fellowships and Research Funding
+
+Funding can come from a variety of sources, including university assistantships, external fellowships, research grants, and scholarships. Some opportunities support students before they begin graduate school, while others are intended for students already enrolled in a program.
+
+### Funding directories
+
+- [Student Funding and Research Opportunities Spreadsheet](https://docs.google.com/spreadsheets/d/1BaC0sX7I8_mMcXxIThEM2kZgSUqi7-l_BHZe_CUvuhw/edit?gid=194681346#gid=194681346) — A community-compiled directory of funding, research, travel, outreach, and training opportunities for undergraduate students, graduate students, and postdoctoral researchers. The spreadsheet includes separate tabs and filters to help identify relevant opportunities. Last updated October 2024, so some deadlines, eligibility requirements, and links may be outdated.
+
+### Federal and national fellowship programs
+
+- [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org) — Graduate research fellowships supporting eligible students pursuing research-based graduate degrees.
+
+- [NASA Graduate Student opportunities](https://science.nasa.gov/learn/learner-opportunities/#gradops) — Funding and research opportunities across NASA science disciplines, including Earth and space science.
+
+- [American Meteorological Society Graduate Fellowships](https://www.ametsoc.org/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/) — Graduate fellowship opportunities in atmospheric, oceanic, and related sciences.
+
+- [NOAA Dr. Nancy Foster Scholarship Program](https://fosterscholars.noaa.gov) — Support for eligible graduate students pursuing research relevant to NOAA's mission.
+
+- [Link Foundation Ocean Engineering & Instrumentation Fellowship](https://linkoe.org/program-guidelines/) — Fellowship opportunities for graduate research in ocean engineering and instrumentation.
+
+- [American Association of University Women Fellowships and Grants](https://www.aauw.org/resources/programs/fellowships-grants/) — Funding opportunities supporting graduate education, research, and professional development.
+
+### Other graduate funding and support
+
+- [NSF NCAR's Advanced Study Program's Graduate Visitor Program (GVP) Fellowship](https://edec.ucar.edu/advanced-study-program/graduate-visitor-program) — Opportunities for graduate students to conduct research with scientists at NCAR.
+
+## Graduate Positions and Scientific Careers
+
+Finding graduate positions and research opportunities often requires exploring several sources, including professional organizations, departmental websites, mailing lists, and community-maintained directories.
+
+- [Graduate Positions in Oceanography and Marine Science](https://docs.google.com/spreadsheets/d/1lNarus2zbsYkkQFCrWPS-U2L1Ey4hL2WuBnSp72L1P0/edit#gid=1076480778) — A shared spreadsheet of graduate research opportunities.
+
+- [Ocean Carbon and Biogeochemistry (OCB) Jobs and Postdocs](https://www.us-ocb.org/science-support/jobs-and-postdocs/) — Research positions and career opportunities in ocean biogeochemistry.
+
+- [ECO Magazine Career Opportunities](https://www.ecomagazine.com/news/opportunity/) — Employment and research opportunities across ocean science and technology.
+
+Community-maintained lists can be especially helpful, but may not always be up to date. Confirm openings and application instructions directly with the institution or research group.
+
+## Training and Professional Development
+
+Graduate education extends well beyond a dissertation project. Specialized courses, research cruises, workshops, internships, and professional networks can help you develop skills, explore new approaches, and connect with researchers outside your home institution.
+
+### Research cruises and ocean observing
+
+- [UNOLS Cruise Opportunities](https://www.unols.org/form/contact-us-form) — A starting point for learning about opportunities to participate in research cruises and connect with the oceanographic research fleet.
+
+- [UNOLS Chief Scientist Training Cruise Program](https://www.unols.org/nsf-unols-chief-scientist-training-cruise) — Training opportunities focused on cruise planning, shipboard operations, and scientific leadership.
+
+- [NSF Education and Training Application (ETAP)](https://etap.nsf.gov/search) — A searchable platform for NSF-supported research and training opportunities.
+
+### Ocean optics and remote sensing
+
+- [NASA/University of Maine Calibration and Validation for Ocean Color Remote Sensing Workshop](https://misclab.umeoce.maine.edu/OceanOpticsClass2025/) — Specialized training in ocean color remote sensing, field measurements, and satellite validation.
+
+- [Cornell Satellite Remote Sensing Summer Course](http://oceanography.eas.cornell.edu/satellite/) — Training in satellite oceanography and remote sensing applications.
+
+### Marine microbiology and ocean science
+
+- [Marine Biological Laboratory Microbial Diversity Course](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/microbial-diversity) — Advanced training in microbial diversity, ecology, and laboratory approaches.
+
+- [Friday Harbor Laboratories Summer Courses](https://fhl.uw.edu/courses/) — Field- and laboratory-based courses in marine science.
+
+### Internships, policy, and science communication
+
+- [William M. Lapenta NOAA Student Internship Program](https://vlab.noaa.gov/web/lapenta-internship-program) — Opportunities for research and professional development in NOAA-related disciplines.
+
+- [MBARI Summer Internships](https://www.mbari.org/about/careers/internships/how-to-apply/) — Research and engineering internships in ocean science and technology.
+
+- [Sea Grant Knauss Fellowship](https://seagrant.noaa.gov/knauss-fellowship-program/) — A fellowship introducing eligible graduate students to ocean, coastal, and Great Lakes policy in Washington, D.C.
+
+- [ASLO Science Communication Internship](https://www.aslo.org/opportunities-in-aslo/scicomm-internship/) — Professional development in communicating aquatic science.
+
+- [ASLO Multicultural Program](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/) — Opportunities for eligible students to participate in scientific meetings and build professional networks.
 
 
-# Funding for prospective and current graduate students
+## Scientific Communities and Support Networks
 
-- [Google sheet of funding opportunities](https://docs.google.com/spreadsheets/d/1BaC0sX7I8_mMcXxIThEM2kZgSUqi7-l_BHZe_CUvuhw/edit?gid=194681346#gid=194681346)
+Scientific communities and professional networks can provide mentorship, collaboration, friendship, and a sense of belonging beyond your home laboratory or institution.
 
-- [The Johns Hopkins List of Graduate Student Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/graduate/)
-
-- [The Johns Hopkins List of Underrepresented Minority and Low-income Graduate Student Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/underrepresented/)
-
-- [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) 
-
-- [NASA Graduate Student funding opportunities](https://science.nasa.gov/learn/learner-opportunities/#gradops)
-
-- [ROSES-24 Amendment 61: Future Investigators in NASA Earth and Space Science and Technology (FINESST)](https://science.nasa.gov/researchers/solicitations/roses-2023/amendment-61-future-investigators-in-nasa-earth-and-space-science-and-technology-smds-graduate-student-research-proposals-final-text-released-proposals-due-february-6-2024/)
-
-- [AGU Bridge Program](https://www.agu.org/bridge-program?utm_source=Sharing_Science_email_12.5.23&utm_medium=email&utm_campaign=bridge_program&mkt_tok=OTg3LUlHVC01NzIAAAGQeVSnh8-F0QxqD5k2uCw6J-PsBxav2j6IgJkSpQjvNDWTlI4VAa9t6y8aHQFkOoR5hFY3MbtoZp2wJz-HmQdsS4FELz48bw7wTh5MQDGAWQ)
-
-- [AMS Graduate Fellowships](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/)
-
-- [NOAA Dr. Nancy Foster Scholarship Program](https://fosterscholars.noaa.gov)
-
-- [The William M. Lapenta NOAA Student Internship Program](https://vlab.noaa.gov/web/lapenta-internship-program)
-
-- [Ford Foundation Dissertation Fellowship](https://www.nationalacademies.org/our-work/ford-foundation-dissertation-fellowships)
-
-- [Link Foundation Ocean Engineering & Instrumentation Fellowship](https://linkoe.org/program-guidelines/)
-
-- [Sea Grant Knauss Fellowship (1 year policy fellowship in Washington, D.C.)](https://seagrant.noaa.gov/knauss-fellowship-program/)
-
-- [NSF NCAR's Advanced Study Program's Graduate Visitor Program (GVP) Fellowship](https://edec.ucar.edu/advanced-study-program/graduate-visitor-program)
-
-- [American Association of University Women](https://www.aauw.org/resources/programs/fellowships-grants/)
-
-- [DOE Office of Science graduate student research](https://science.osti.gov/wdts/scgsr)
-
-- [ASLO SciCom Internship](https://www.aslo.org/opportunities-in-aslo/scicomm-internship/)
-
-- [ASLO Multicultural Program](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/)
-
-# Open positions for prospective and graduating students
-
-- [Active recruitment efforts in Marine Sciences (compiled by LatinX)](https://docs.google.com/spreadsheets/d/14ySe_J3KMrTUrIvi843btc6SmKefWNuVbReTsabotqM/edit)
-
-- [Available graduate positions in oceanography/marine science](https://docs.google.com/spreadsheets/d/1lNarus2zbsYkkQFCrWPS-U2L1Ey4hL2WuBnSp72L1P0/edit#gid=1076480778)
-
-- [Ocean Carbon and Biogeochemistry job and postdoc list](https://www.us-ocb.org/science-support/jobs-and-postdocs/)
-
-- [ECO magazine ocean career list](https://www.ecomagazine.com/news/opportunity/)
-
-# Training opportunities for graduate students
-
-- [NSF Education & Training Application (ETAP) is a secure online platform that connects applicants to NSF-funded opportunities](https://etap.nsf.gov/search)
-
-- [UNOLS Cruise Opportunity program mailing list](https://www.unols.org/form/contact-us-form)
-
-- [UNOLS Chief Scientist Training Cruise Program](https://www.unols.org/nsf-unols-chief-scientist-training-cruise)
-
-- [NASA/UMaine Calibration & Validation for Ocean Color Remote Sensing summer workshop](https://misclab.umeoce.maine.edu/OceanOpticsClass2023/about/)
-
-- [Cornell Satellite Remote Sensing summer course](http://oceanography.eas.cornell.edu/satellite/)
-
-- [MBL Microbial Diversity](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/microbial-diversity)
-
-- [MBARI Summer Internships](https://www.mbari.org/about/careers/internships/how-to-apply/)
-
-- [Summer courses at Friday Harbor Labs](https://fhl.uw.edu/courses/)
-
-- [US CLIVAR Ocean Uncertainty Quantification Summer SChool](https://usclivar.org/meetings/ocean-uncertainty-quantification-summer-school)
-
-- [GOOD-OARS Summer School](https://goosocean.org/event/4307)
-
-# Community and support networks
+The following organizations and networks support scientists across different disciplines, backgrounds, identities, and career stages.
 
 - [Black in Marine Science](https://www.blackinmarinescience.org)
 
-- [Black in Geoscience](https://twitter.com/blkingeoscience?lang=en)
-
-- [National Association of Black Geoscientists](https://www.americangeosciences.org/society/national-association-black-geoscientists)
-
 - [BWEEMS (Black Women in Ecology, Evolution, and Marine Science)](https://www.bweems.org)
 
-- [Society for Advancement of Chicanos/Hispanics & Native American in Science](https://www.sacnas.org)
-
-- [LatinX in the Marine Sciences](https://twitter.com/i/flow/login?redirect_after_login=%2Fi%2Fflow%2Flogin)
+- [Society for Advancement of Chicanos/Hispanics & Native American in Science (SACNAS)](https://www.sacnas.org)
 
 - [GeoLatinas](https://geolatinas.org)
 
@@ -102,7 +114,7 @@ The [Hidden Curriculum](https://lor.instructure.com/resources/4dbadf21d0a84ce8b8
 
 - [Association of Filipino Scientists in America](https://linktr.ee/afsa.official)
 
-- [The International Association for Geoscience Diversity](https://theiagd.org)
+- [International Association for Geoscience Diversity](https://theiagd.org)
 
 - [American Indian Science and Engineering Society](https://www.aises.org)
 
@@ -116,5 +128,6 @@ The [Hidden Curriculum](https://lor.instructure.com/resources/4dbadf21d0a84ce8b8
 
 - [Mentoring Physical Oceanography Women to Increase Retention (MPOWIR)](https://mpowir.org)
 
-- [GEOTRACES Student and Early Career Scientist mailing list](https://forms.gle/iSNWtQG58bMLrUBZ9)
+For researchers interested in marine trace elements and isotopes, the [GEOTRACES Student and Early Career Scientist mailing list](https://forms.gle/iSNWtQG58bMLrUBZ9) provides another opportunity to connect with an international research community.
+
 
