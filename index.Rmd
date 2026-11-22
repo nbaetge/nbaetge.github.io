@@ -5,12 +5,17 @@ output: html_document
 <!-- HEADER + PROFILE PHOTO SIDE-BY-SIDE -->
 <div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
 
-  <!-- Photo on the left -->
-  <div style="flex: 0 0 160px; margin-right: 20px;">
-```{r, echo=FALSE, out.width = "100%"}
-knitr::include_graphics("images/IMG_1740.JPG")
-```
-</div> 
+  <!-- Circular profile photo -->
+<div style="flex: 0 0 180px; margin-right: 25px;">
+  <img src="images/IMG_1740.JPG"
+       alt="Nick Baetge with a dog"
+       style="width: 170px;
+              height: 170px;
+              object-fit: cover;
+              object-position: center;
+              border-radius: 50%;
+              display: block;">
+</div>
   <!-- Name and Titles on the right --> 
  <div style="flex: 1 1 280px;">
   <h1 style="font-size: 34px; margin-top: 0; margin-bottom: 8px;">
@@ -83,6 +88,132 @@ ocean science.
     A short reel from a 5-day research cruise off Hawaii. Check out the <a href="https://csw.unols.org">blogs</a> from this cruise!
   </p>
 </div>
+
+
+
+<!-- OUR TEAM AT BIOS -->
+
+```{=html}
+<section class="team-section">
+
+  <h2>Our Team at BIOS</h2>
+
+  <p>
+    My research at the ASU Bermuda Institute of Ocean Sciences is supported by a close-knit, interdisciplinary group of scientists and research technicians. While we pursue distinct research questions and projects, we share expertise, facilities, and a common interest in understanding marine microbial communities and organic matter cycling in the Sargasso Sea. This collaborative environment provides opportunities to develop independent research directions while contributing to broader scientific efforts, including BIOS-SCOPE.
+  </p>
+
+ 
+<div class="team-grid" style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 35px 30px;
+  margin-top: 28px;
+">
+
+  <!-- Craig Carlson -->
+  
+<div class="team-member" style="
+  flex: 0 1 30%;
+  min-width: 180px;
+  text-align: center;
+">
+
+    <img src="images/team/CraigCarlson.jpg"
+         alt="Craig Carlson"
+         style="width: 140px; height: 140px;
+                object-fit: cover; border-radius: 50%;
+                display: block; margin: 0 auto 12px;">
+    <a href="https://search.asu.edu/profile/5439239">
+      Craig Carlson
+    </a>
+    <div class="team-role">
+      Director &amp; President, ASU BIOS<br>
+      Professor · BIOS-SCOPE PI
+    </div>
+  </div>
+
+  <!-- Rachel Parsons -->
+ 
+<div class="team-member" style="
+  flex: 0 1 30%;
+  min-width: 180px;
+  text-align: center;
+">
+
+    <img src="images/team/RachelParsons.jpeg"
+         alt="Rachel Parsons"
+         style="width: 140px; height: 140px;
+                object-fit: cover; border-radius: 50%;
+                display: block; margin: 0 auto 12px;">
+    <a href="https://search.asu.edu/profile/4650510">
+      Rachel Parsons
+    </a>
+    <div class="team-role">Senior Research Specialist</div>
+  </div>
+
+  <!-- Brett Jameson -->
+  
+<div class="team-member" style="
+  flex: 0 1 30%;
+  min-width: 180px;
+  text-align: center;
+">
+
+    <img src="images/team/BrettJameson.jpg"
+     alt="Brett Jameson"
+     style="width: 140px;
+            height: 140px;
+            object-fit: cover;
+            object-position: center 25%;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto 12px;">
+    <a href="https://bios.asu.edu/about/team-members/brett-jameson">
+      Brett Jameson
+    </a>
+    <div class="team-role">Research Fellow</div>
+  </div>
+
+  <!-- Evelyn Souza -->
+  
+<div class="team-member" style="
+  flex: 0 1 30%;
+  min-width: 180px;
+  text-align: center;
+">
+
+    <img src="images/team/EvelynSouza.jpg"
+         alt="Evelyn Souza"
+         style="width: 140px; height: 140px;
+                object-fit: cover; border-radius: 50%;
+                display: block; margin: 0 auto 12px;">
+    <div class="team-name">Evelyn Souza</div>
+    <div class="team-role">Research Technician</div>
+  </div>
+
+  <!-- Leah Hoeppner -->
+  
+<div class="team-member" style="
+  flex: 0 1 30%;
+  min-width: 180px;
+  text-align: center;
+">
+
+    <img src="images/team/LeahHoeppner.jpeg"
+         alt="Leah Hoeppner"
+         style="width: 140px; height: 140px;
+                object-fit: cover; border-radius: 50%;
+                display: block; margin: 0 auto 12px;">
+    <div class="team-name">Leah Hoeppner</div>
+    <div class="team-role">Research Technician</div>
+  </div>
+
+</div>
+
+</section>
+```
+
 
 <!-- FOOTER --> 
 <hr style="margin-top: 40px;"> <p style="font-size: 12px;"> This website was last updated `r format(Sys.Date(), '%B %d, %Y')`. <br> If you spot inaccuracies or have suggestions for improvements or resources, please <a href="mailto:nicholasbaetge@gmail.com">get in touch</a>! </p>

@@ -207,3 +207,98 @@ a:focus-visible {
   height: 48px;
   width: auto;
   max-height: 48px;
+  
+  
+/* ---------- Our Team at BIOS ---------- */
+
+.team-section {
+  margin: 45px 0 40px;
+}
+
+.team-grid {
+  display: grid !important;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 20px;
+  margin-top: 28px;
+}
+
+.team-member {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 6px;
+  min-width: 0;
+}
+
+.team-member img.team-photo {
+  display: block;
+  width: 130px !important;
+  height: 130px !important;
+  max-width: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  margin: 0 auto 8px;
+}
+
+.team-member a,
+.team-member .team-name {
+  display: block;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.team-member .team-role {
+  display: block;
+  font-size: 14px;
+  line-height: 1.4;
+  color: #626A70;
+}
+
+/* Tablet */
+@media (max-width: 900px) {
+  .team-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .team-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px 12px;
+  }
+
+  .team-member img.team-photo {
+    width: 110px !important;
+    height: 110px !important;
+  }
+}
+
+
+/* ---------- Team gallery: centered 3 + 2 layout ---------- */
+
+.team-grid {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 35px 30px;
+}
+
+.team-member {
+  flex: 0 1 calc((100% - 60px) / 3);
+  min-width: 0;
+}
+
+@media (max-width: 700px) {
+  .team-member {
+    flex: 0 1 calc((100% - 20px) / 2);
+  }
+}
+
+@media (max-width: 420px) {
+  .team-member {
+    flex: 0 1 100%;
+  }
+}
